@@ -44,8 +44,12 @@ for(x in 2:length(elec)) {
 ####Llamar shp####
 estados <- 1:31
 x <- 1
+<<<<<<< HEAD
 y <- c("02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", 
        "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32")
+=======
+y <- c("02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32")
+>>>>>>> 0fbd89cd1380f24dabe070b5f8a530532c292a57
 nombre <- paste(y, "ent.shp", sep = "")
 rep <- readOGR(paste(maps, "01ent.shp", sep = "/")) ##No supe poner un SP vacio, 
 pb = txtProgressBar(min=1, max=length(nombre), style=3)
@@ -62,8 +66,12 @@ mapa <- merge(rep, gob_first, by.x = "CVE_ENT", by.y = "INEGI")
 map <- fortify(mapa, region = "id")
 fin <- merge(map, mapa@data, by = "id")
 ####Plotear####
+<<<<<<< HEAD
 party <- c("INDEP" = "#ff3399", "MC" = "#ff8000", "Morena" = "#b30000", "PAN" = "#005ce6", "PRD" = "#ffff00", "PRI" = "#ff0000", 
            "PVEM" = "#00cc44")
+=======
+party <- c("INDEP" = "#ff3399", "MC" = "#ff8000", "Morena" = "#b30000", "PAN" = "#005ce6", "PRD" = "#ffff00", "PRI" = "#ff0000", "PVEM" = "#00cc44")
+>>>>>>> 0fbd89cd1380f24dabe070b5f8a530532c292a57
 pb = txtProgressBar(min=1, max=length(fin), style=3)
 elec <- 1973:2019
 dada <- as.character(1963:2019)
