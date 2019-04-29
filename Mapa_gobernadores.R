@@ -3,7 +3,7 @@ setwd("~")
 
 ####Directorios y paquetes####
 inp <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vTAJ22OR9JCNfRdQFeHUO1szhw-tje4sjtMCMf3m9DA5mKjoWMNCWi4Pr3SPeO1TEb5wvvVZArw6ecq/pub?gid=1686758032&single=true&output=csv"
-out <- "/Users/Emmanuel RB/Documents/El Poder Compartido II/Output/Gubernaturas"
+out <- "/Users/Emmanuel RB/Documents/El Poder Compartido II/Output/mapas_poder_compartido/Gubernaturas"
 maps <- "/Users/Emmanuel RB/Documents/Mapas (INEGI,shp)/conjunto de datos"
 
 library(dplyr)
