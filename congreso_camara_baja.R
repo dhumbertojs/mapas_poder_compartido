@@ -31,7 +31,7 @@ for (x in 1:length(legis)) {
   #tempo <- dip %>% filter(Legislatura == legis[x])
   tempo <- dip %>% filter(year == legis[x])
   dipus <- parliament_data(tempo, 8, tempo$Total, type = "semicircle", tempo$GP)
-  plot <- ggplot(dipus, aes(x, y, colour = GP, size = 2L)) +
+  plot <- ggplot(dipus, aes(x, y, colour = GP, size = 3L)) +
     geom_parliament_seats() + 
     theme_ggparliament() +
     scale_color_manual(values = party) +
