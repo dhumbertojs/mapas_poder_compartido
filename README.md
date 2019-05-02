@@ -5,4 +5,6 @@ Elaboración de mapas con partidos en el gobierno a lo largo de los años. Bases
 
 ### Mapas y animación (.gif) de: 
 - Gubernaturas por año desde 1973, hasta 2019.
-- Total de escaños por Grupo Parlamentario en la Cámara de Diputados.
+- Total de escaños por Grupo Parlamentario en la Cámara de Diputados (2000 - 2018).
+- Gobiernos municipales:
+  - San Luis Potosí (2000 - 2018).
