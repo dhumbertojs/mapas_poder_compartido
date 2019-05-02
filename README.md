@@ -8,4 +8,4 @@ Elaboración de mapas con partidos en el gobierno a lo largo de los años. Bases
 - Total de escaños por Grupo Parlamentario:
   - Cámara de Diputados (2000 - 2018).
 - Gobiernos municipales:
-  - San Luis Potosí (2000 - 2018).
+  - San Luis Potosí (2000 - 2019).
