@@ -1,6 +1,8 @@
-# mapas_poder_compartido
----
-title: "mapas de las bases de datos de la actualización del libro 'El poder Compartido'"
----
+## Mapas de las bases de datos de la actualización del libro "El poder Compartido"
+
 
 Elaboración de mapas con partidos en el gobierno a lo largo de los años. Bases de datos para la actualización de "El Poder Compartido" de Horacio Vives Segl.
+
+### Mapas y animación (.gif) de: 
+- Gubernaturas por año desde 1973, hasta 2019.
+- Total de escaños por Grupo Parlamentario en la Cámara de Diputados.
