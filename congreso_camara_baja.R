@@ -22,13 +22,11 @@ party <- c("Sin_Grupo" = "#ff3399", "MC" = "#ff8000", "Morena" = "#b30000",
 
 ##a esto le hace falta un for##
 x <- 1
-#legis <- c("LVIII", "LIX", "LX", "LXI", "LXII", "LXIII", "LXIV")
 legis <- c("2000", "2003", "2006", "2009", "2012", "2015", "2018")
 orden <- as.character(1:7)
 pb = txtProgressBar(min=1, max=length(legis), style=3)
 
 for (x in 1:length(legis)) {
-  #tempo <- dip %>% filter(Legislatura == legis[x])
   tempo <- dip %>% filter(year == legis[x])
   dipus <- parliament_data(tempo, 8, tempo$Total, type = "semicircle", tempo$GP)
   plot <- ggplot(dipus, aes(x, y, colour = GP, size = 3L)) +
