@@ -9,3 +9,5 @@ Elaboración de mapas con partidos en el gobierno a lo largo de los años. Bases
   - Cámara de Diputados (2000 - 2018).
 - Gobiernos municipales:
   - San Luis Potosí (2000 - 2019).
+
+###### Centro de Estudios Alonso Lujambio
