@@ -3,8 +3,8 @@ setwd("~")
 
 ####Directorios y paquetes####
 inp <- "/Users/Emmanuel RB/Documents/El Poder Compartido II"
-out <- "/Users/Emmanuel RB/Documents/El Poder Compartido II/Output/Ayuntamientos/SLP"
-maps <- "/Users/Emmanuel RB/Documents/Mapas (INEGI,shp)/conjunto de datos"
+out <- "/home/dhjs/Documentos/R_projects/mapas_poder_compartido/Ayuntamientos/SLP"
+maps <- "/home/dhjs/Documentos/R_projects/Mapas (INEGI,shp)"
 
 library(rgdal)
 library(stringr)

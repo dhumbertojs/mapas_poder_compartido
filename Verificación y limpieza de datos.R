@@ -3,9 +3,6 @@ setwd("~")
 
 library(dplyr)
 library(tidyr)
-library(readxl)
-library(janitor)
-library(stringr)
 
 out <- "/home/dhjs/Documentos/R_projects/mapas_poder_compartido"
 
@@ -28,3 +25,4 @@ table(try$Estado)
 
 #filter(!str_detect(filtro, "Sección") & !str_detect(filtro, "Básica") 
 ##Filtro para renglones con texto!!
+table(tidy$Estado)
