@@ -26,3 +26,5 @@ table(try$Estado)
 #filter(!str_detect(filtro, "Sección") & !str_detect(filtro, "Básica") 
 ##Filtro para renglones con texto!!
 table(tidy$Estado)
+
+table(try$Estado)

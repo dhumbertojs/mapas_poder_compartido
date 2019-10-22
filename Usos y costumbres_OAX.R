@@ -21,7 +21,8 @@ data <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vQYNRmqrZVq5rc
 
 data <- data %>% 
   select(1:3, 24:43) %>% 
-  filter(Estado == "Oaxaca") 
+  filter(Estado == "Oaxaca") %>% 
+  mutate(INEGI = as.character(INEGI))
 
 try <- full_join(data, uso, by = "INEGI")
 

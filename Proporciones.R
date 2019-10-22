@@ -29,7 +29,8 @@ data <- data %>%
                                          ifelse(first == "Usos y costumbres", "Usos y costumbres", 
                                                 ifelse(first == "MORENA", "Morena",
                                                        ifelse(first == "PT", "PT",
-                                                              ifelse(first == "PVEM", "PVEM", "Otros"))))))))
+                                                              ifelse(first == "PVEM", "PVEM", 
+                                                                     ifelse(first == "nx", "nx", "Otros")))))))))
   )
 
 ggplot(data %>% filter(!is.na(first)), aes(x = Anio, y = first)) +
@@ -56,13 +57,18 @@ party <- c("INDEP" = "#ff3399", "MC" = "#ff8000", "Morena" = "#b30000",
            "PDM" = "#CE0536", "PES" = "#8701F7",    "PNA" = "#01F7CA",
            "PT" = "#DE1830", "Otros" = "#fc03c6", "Independiente" = "#c48900")
 
-ggplot(try %>% filter(first2 != "Usos y costumbres"), aes(x = Anio, y = porc)) +
+ggplot(try %>% filter(first2 != "Usos y costumbres" & first2 != "nx"), aes(x = Anio, y = porc)) +
   geom_bar(aes(fill = first2), stat = "identity") + scale_fill_manual(values = party)
 
 ggplot(try %>% filter(first2 != "Usos y costumbres"), aes(x = Anio, y = porc, group = first2, col = first2)) +
-  geom_line() +
+  geom_line(size = 2) +
   scale_color_manual(values = party, name = "") +
+  #geom_text(aes(label = max(porc))) +
   theme_bw() +
   scale_y_continuous(breaks = seq(0, 60, by = 5)) +
-  labs(title = "Proporción de municipios gobernados por partidos nacionales", x = "", y = "")
+  labs(title = "Proporción de municipios gobernados por partidos nacionales", subtitle = "2000 -2019", x = "", y = "", caption = "Sin incluir usos y costumbres")
 ggsave(paste(out, "Proporción.png", sep = "/"), dpi = 300, width = 20, height = 40, units = "cm")
+
+dip <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vRA-4N91VihIrGzX5fEvErf3OvmsVwYKvD-6CF4Eq0Cmr4Xnb9I53ZaPPu07Vvk6YSbnK6l_bB-vchU/pub?gid=173991573&single=true&output=csv"
+
+sen <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vSJkpFRyYSaghOiCEmBPRidWKd0EPlkyV26-91ZpV_UbVldUEMQY4IA5eKo-CvzrWgHYKgW9UU3BQ8z/pub?output=csv"
