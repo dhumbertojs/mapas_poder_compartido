@@ -20,9 +20,9 @@ mun <- mun %>%
     names_to = "Anio", 
     values_to = "Ganador", 
     names_prefix = "X") %>% 
-  filter(!is.na(Ganador))
+  mutate(Ganador = ifelse(Ganador == "", NA, Ganador))
 
-mun <- mun %>% 
+try.mun <- mun %>% 
   mutate(
     cont = ifelse(!is.na(Ganador), 1, NA),
     first = sapply(strsplit(Ganador, "_"), "[", 1),
@@ -37,7 +37,23 @@ mun <- mun %>%
   mutate(porc = prop * 100 /tot) %>% 
   select(-c(prop, tot))
 
-mun2 <- mun %>% 
+mun2 <- try.mun %>% 
+  pivot_wider(names_from = Anio, 
+              values_from = porc)
+
+mun <- mun %>% 
+  mutate(
+    cont = ifelse(!is.na(Ganador), 1, NA),
+    Ganador = ifelse(Ganador == "nx", NA, Ganador)
+    ) %>% 
+  group_by(Anio) %>% 
+  mutate(tot = sum(cont, na.rm = T)) %>% 
+  ungroup() %>% 
+  group_by(Anio, Ganador, tot) %>% 
+  summarise(prop = sum(cont, na.rm = T)) %>% 
+  ungroup() %>% 
+  mutate(porc = prop * 100 /tot) %>% 
+  select(-c(prop, tot)) %>% 
   pivot_wider(names_from = Anio, 
               values_from = porc)
 
@@ -78,7 +94,9 @@ sen2 <- sen %>%
 # Exportar ----------------------------------------------------------------
 
 wb <- createWorkbook()
-sh <- addWorksheet(wb, "Municipios")
+sh <- addWorksheet(wb, "Municipios_coalición")
+writeData(wb, sh, mun)
+sh <- addWorksheet(wb, "Municipios_primer")
 writeData(wb, sh, mun2)
 sh <- addWorksheet(wb, "Diputaciones")
 writeData(wb, sh, dip2)
