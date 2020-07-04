@@ -2,6 +2,7 @@ library(dplyr)
 library(tidyr)
 library(purrr)
 library(stringr)
+library(readxl)
 
 inp <- "/Users/dhjs/Documents/projects/mapas_poder_compartido/pdf"
 list.files(inp)
@@ -168,3 +169,231 @@ col15 <- col15 %>%
     values_from = n
   ) %>% 
   write.csv(paste(inp, "col", "col2015_fin.csv", sep = "/"), row.names = F)
+
+edomexlvi <- read_excel(paste(inp, "lvi edomex.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(!is.na(Distrito), "MR", "RP")
+  ) %>% 
+  group_by(Partido, prin) %>% 
+    count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  write.csv(paste(inp, "lvi_edomex_summ.csv", sep = "/"), row.names = F)
+
+gto <- read_excel(paste(inp, "GUANAJUATO.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "RP", "MR"),
+    partido = str_replace_all(partido, c(
+      "Partido del Trabajo" =  "PT", "Movimiento Ciudadano" = "MC", 
+      "MoCi" = "MC", "Nueva Alianza" = "PNA", "PANAL" = "PNA"))
+    ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  arrange(year) %>% 
+  select(
+    partido, MR, RP, legis, year
+  ) %>% 
+  write.csv(paste(inp, "Guanajuato_final.csv", sep = "/"), row.names = F)
+
+jal <- read_excel(paste(inp, "JALISCO.xlsx", sep = "/")) %>% 
+  mutate(prin = ifelse(is.na(distrito), "RP", "MR")) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin, 
+    values_from = n
+  ) %>% 
+  select(partido, MR, RP, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "Jalisco_final.csv", sep = "/"), row.names = F)
+
+mich <- read_excel(paste(inp, "MICH.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "Michocan_final.csv", sep = "/"), row.names = F)
+
+nay <- read_excel(paste(inp, "NAYARIT.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "Nayarit_final.csv", sep = "/"), row.names = F)
+
+nl <- read_excel(paste(inp, "NL.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "nuevo leon_final.csv", sep = "/"), row.names = F)
+
+
+oax <- read_excel(paste(inp, "OAXACA.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "oaxaca_final.csv", sep = "/"), row.names = F)
+
+
+qroo <- read_excel(paste(inp, "QROO.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "quintana_final.csv", sep = "/"), row.names = F)
+
+slp <- read_excel(paste(inp, "SLP.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "slp_final.csv", sep = "/"), row.names = F)
+
+son <- read_excel(paste(inp, "SONORA.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "sonora_final.csv", sep = "/"), row.names = F)
+
+tab <- read_excel(paste(inp, "TAB.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "tabasco_final.csv", sep = "/"), row.names = F)
+
+tamps <- read_excel(paste(inp, "TAMAULIPAS.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "tamaulipas_final.csv", sep = "/"), row.names = F)
+
+tlax <- read_excel(paste(inp, "TLAXCALA.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "tlaxcala_final.csv", sep = "/"), row.names = F)
+
+ver <- read_excel(paste(inp, "VERACRUZ.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "veracruz_final.csv", sep = "/"), row.names = F)
+
+yuc <- read_excel(paste(inp, "YUCATAN.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "yucatan_final.csv", sep = "/"), row.names = F)
+
+
+zac <- read_excel(paste(inp, "ZACATECAS.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "zacatecas_final.csv", sep = "/"), row.names = F)
