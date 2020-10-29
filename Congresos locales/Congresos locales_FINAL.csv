@@ -1,0 +1,2337 @@
+Estado,Partido,MR,RP,Legislatura,year
+Aguascalientes,PRI,8,,XLIX,1974
+Aguascalientes,PRI,11,,L,1977
+Aguascalientes,PPS,,1,L,1977
+Aguascalientes,PARM,,1,L,1977
+Aguascalientes,PRI,12,,LI,1980
+Aguascalientes,PAN,,,LI,1980
+Aguascalientes,PST,,,LI,1980
+Aguascalientes,PDM,,,LI,1980
+Aguascalientes,PRI,12,,LII,1983
+Aguascalientes,PAN,,,LII,1983
+Aguascalientes,PST,,,LII,1983
+Aguascalientes,PRI,12,,LIII,1986
+Aguascalientes,PAN,,,LIII,1986
+Aguascalientes,PDM,,,LIII,1986
+Aguascalientes,PMS,,,LIII,1986
+Aguascalientes,PRI,12,,LIV,1989
+Aguascalientes,PAN,,,LIV,1989
+Aguascalientes,PFCRN,,,LIV,1989
+Aguascalientes,PRI,20,,LV,1992
+Aguascalientes,PAN,,,LV,1992
+Aguascalientes,PPS,,,LV,1992
+Aguascalientes,PARM,,,LV,1992
+Aguascalientes,PFCRN,,,LV,1992
+Aguascalientes,PRD,,,LV,1992
+Aguascalientes,PRI,9,,LVI,1995
+Aguascalientes,PAN,9,,LVI,1995
+Aguascalientes,PRD,,,LVI,1995
+Aguascalientes,PT,,,LVI,1995
+Aguascalientes,Local,,,LVI,1995
+Aguascalientes,PRI,6,,LVII,1998
+Aguascalientes,PAN,12,,LVII,1998
+Aguascalientes,PRD,,,LVII,1998
+Aguascalientes,PRI,,,LVIII,2001
+Aguascalientes,PAN,,,LVIII,2001
+Aguascalientes,PRD,,,LVIII,2001
+Aguascalientes,PVEM,,,LVIII,2001
+Aguascalientes,PT,,,LVIII,2001
+Aguascalientes,PAN,7,,LVIII,2001
+Aguascalientes,PRD,,,LVIII,2001
+Aguascalientes,PRI,9,,LVIII,2001
+Aguascalientes,PT,1,,LVIII,2001
+Aguascalientes,PVEM,1,,LVIII,2001
+Aguascalientes,CAC,3,,LIX,2004
+Aguascalientes,CVA,,,LIX,2004
+Aguascalientes,PAN,15,,LIX,2004
+Aguascalientes,Convergencia,,,LX,2007
+Aguascalientes,PAN,7,,LX,2007
+Aguascalientes,PRD,,,LX,2007
+Aguascalientes,PRI,11,,LX,2007
+Aguascalientes,PVEM,,,LX,2007
+Aguascalientes,Convergencia,,,LXI,2010
+Aguascalientes,PAN,2,,LXI,2010
+Aguascalientes,PNA,3,,LXI,2010
+Aguascalientes,PRD,,,LXI,2010
+Aguascalientes,PRI,12,,LXI,2010
+Aguascalientes,PT,,,LXI,2010
+Aguascalientes,PVEM,1,,LXI,2010
+Aguascalientes,MC,,,LXII,2013
+Aguascalientes,PAN,5,,LXII,2013
+Aguascalientes,PNA,1,,LXII,2013
+Aguascalientes,PRD,1,,LXII,2013
+Aguascalientes,PRI,10,,LXII,2013
+Aguascalientes,PT,,,LXII,2013
+Aguascalientes,PVEM,1,,LXII,2013
+Aguascalientes,Morena,,,LXIII,2016
+Aguascalientes,PAN,11,,LXIII,2016
+Aguascalientes,PNA,2,,LXIII,2016
+Aguascalientes,PES,,,LXIII,2016
+Aguascalientes,PRD,,,LXIII,2016
+Aguascalientes,PRI,4,,LXIII,2016
+Aguascalientes,PVEM,1,,LXIII,2016
+Aguascalientes,PAN,12,,LXIV,2018
+Aguascalientes,Morena,3,,LXIV,2018
+Aguascalientes,PRI,,,LXIV,2018
+Aguascalientes,PES,1,,LXIV,2018
+Aguascalientes,PRD,1,,LXIV,2018
+Aguascalientes,PVEM,,,LXIV,2018
+Aguascalientes,MC,1,,LXIV,2018
+Aguascalientes,PNA,,,LXIV,2018
+Baja California,PRI,11,,VIII,1974
+Baja California,PRI,11,,IX,1977
+Baja California,PRI,12,,X,1980
+Baja California,PAN,,,X,1980
+Baja California,PCM,,,X,1980
+Baja California,PRI,13,,XI,1983
+Baja California,PST,,,XI,1983
+Baja California,PPS,,,XI,1983
+Baja California,PSUM,,,XI,1983
+Baja California,PRI,14,,XII,1986
+Baja California,PAN,1,,XII,1986
+Baja California,PPS,,,XII,1986
+Baja California,PSUM,,,XII,1986
+Baja California,PFCRN,,,XII,1986
+Baja California,PRI,6,,XIII,1989
+Baja California,PAN,9,,XIII,1989
+Baja California,PPS,,,XIII,1989
+Baja California,PARM,,,XIII,1989
+Baja California,PFCRN,,,XIII,1989
+Baja California,PRD,,,XIII,1989
+Baja California,PRI,7,,XIV,1992
+Baja California,PAN,8,,XIV,1992
+Baja California,PRD,,,XIV,1992
+Baja California,PRI,4,,XV,1995
+Baja California,PAN,11,,XV,1995
+Baja California,PRD,,,XV,1995
+Baja California,PRI,5,,XVI,1998
+Baja California,PAN,11,,XVI,1998
+Baja California,PRD,,,XVI,1998
+Baja California,PAN,12,,XVII,2001
+Baja California,PRD,,,XVII,2001
+Baja California,PRI,3,,XVII,2001
+Baja California,PVEM,1,,XVII,2001
+Baja California,PAN,12,,XVIII,2004
+Baja California,PEBC,1,,XVIII,2004
+Baja California,PRD,1,,XVIII,2004
+Baja California,PRI,7,,XVIII,2004
+Baja California,PVEM,,,XVIII,2004
+Baja California,PAN,12,,XIX,2007
+Baja California,PES,1,,XIX,2007
+Baja California,PNA,2,,XIX,2007
+Baja California,PRD,1,,XIX,2007
+Baja California,PRI,6,,XIX,2007
+Baja California,PVEM,,,XIX,2007
+Baja California,PAN,2,,XX,2010
+Baja California,PEBC,,,XX,2010
+Baja California,PNA,1,,XX,2010
+Baja California,PRD,,,XX,2010
+Baja California,PRI,11,,XX,2010
+Baja California,PVEM,2,,XX,2010
+Baja California,MC,,,XXI,2013
+Baja California,PAN,6,,XXI,2013
+Baja California,PEBC,2,,XXI,2013
+Baja California,PES,1,,XXI,2013
+Baja California,PNA,2,,XXI,2013
+Baja California,PRD,1,,XXI,2013
+Baja California,PRI,3,,XXI,2013
+Baja California,PT,1,,XXI,2013
+Baja California,PVEM,1,,XXI,2013
+Baja California,PAN,12,,XXII,2016
+Baja California,Morena,1,,XXII,2016
+Baja California,PRD,,,XXII,2016
+Baja California,PT,1,,XXII,2016
+Baja California,PBC,,,XXII,2016
+Baja California,Transformemos,,,XXII,2016
+Baja California,MC,,,XXII,2016
+Baja California,PRI,3,,XXII,2016
+Baja California,Morena,13,,XXIII,2019
+Baja California,PT,2,,XXIII,2019
+Baja California,PAN,,,XXIII,2019
+Baja California,MC,,,XXIII,2019
+Baja California,PRD,,,XXIII,2019
+Baja California,PRI,,,XXIII,2019
+Baja California,Transformemos,1,,XXIII,2019
+Baja California,PBR,,,XXIII,2019
+Baja California,PVEM,1,,XXIII,2019
+Baja California,IND,,,XXIII,2019
+Baja California Sur,PRI,7,,I,1975
+Baja California Sur,PPS,,1,I,1975
+Baja California Sur,PRI,7,,II,1978
+Baja California Sur,PPS,,1,II,1978
+Baja California Sur,PRI,8,,III,1981
+Baja California Sur,PAN,,,III,1981
+Baja California Sur,PSUM,,,III,1981
+Baja California Sur,PRI,10,,IV,1984
+Baja California Sur,PAN,,,IV,1984
+Baja California Sur,PSUM,,,IV,1984
+Baja California Sur,PRI,12,,V,1987
+Baja California Sur,PAN,,,V,1987
+Baja California Sur,PSUM,,,V,1987
+Baja California Sur,PRI,15,,VI,1990
+Baja California Sur,PAN,,,VI,1990
+Baja California Sur,PRI,8,,VII,1993
+Baja California Sur,PAN,7,,VII,1993
+Baja California Sur,PRI,11,,VIII,1996
+Baja California Sur,PAN,4,,VIII,1996
+Baja California Sur,PRD,,,VIII,1996
+Baja California Sur,PT,,,VIII,1996
+Baja California Sur,PRI,2,,IX,1999
+Baja California Sur,PAN,1,,IX,1999
+Baja California Sur,PRD,10,,IX,1999
+Baja California Sur,PT,2,,IX,1999
+Baja California Sur,PAN,,,X,2002
+Baja California Sur,PAS,,,X,2002
+Baja California Sur,PRD-PT,11,,X,2002
+Baja California Sur,PRI,4,,X,2002
+Baja California Sur,PVEM,,,X,2002
+Baja California Sur,PAN,,,XI,2005
+Baja California Sur,PRI,,,XI,2005
+Baja California Sur,PRD,15,,XI,2005
+Baja California Sur,PVEM,,,XI,2005
+Baja California Sur,Convergencia,,,XI,2005
+Baja California Sur,MRPS,,,XII,2008
+Baja California Sur,PAN,,,XII,2008
+Baja California Sur,PNA,1,,XII,2008
+Baja California Sur,PRD - PT - CONVERGENCIA,14,,XII,2008
+Baja California Sur,PRI,1,,XII,2008
+Baja California Sur,CONVERGENCIA,,,XIII,2011
+Baja California Sur,PAN,7,,XIII,2011
+Baja California Sur,PNA,,,XIII,2011
+Baja California Sur,PRD,3,,XIII,2011
+Baja California Sur,PRI,4,,XIII,2011
+Baja California Sur,PRS,2,,XIII,2011
+Baja California Sur,Morena,,,XIV,2015
+Baja California Sur,PAN,7,,XIV,2015
+Baja California Sur,PRD,,,XIV,2015
+Baja California Sur,PRI,1,,XIV,2015
+Baja California Sur,PRS,8,,XIV,2015
+Baja California Sur,PT,,,XIV,2015
+Baja California Sur,Morena,9,,XV,2018
+Baja California Sur,PAN,,,XV,2018
+Baja California Sur,PES,6,,XV,2018
+Baja California Sur,PHBCS,,,XV,2018
+Baja California Sur,PRD,,,XV,2018
+Baja California Sur,PRI,,,XV,2018
+Baja California Sur,PRS,1,,XV,2018
+Baja California Sur,PT,,,XV,2018
+Campeche,PRI,13,,XLVIII,1974
+Campeche,PRI,13,,XLIX,1977
+Campeche,PRI,13,,L,1980
+Campeche,PRI,21,,LI,1983
+Campeche,PAN,,,LI,1983
+Campeche,PST,,,LI,1983
+Campeche,PRI,21,,LII,1986
+Campeche,PAN,,,LII,1986
+Campeche,PST,,,LII,1986
+Campeche,PPS,,,LII,1986
+Campeche,PRI,21,,LIII,1989
+Campeche,PAN,,,LIII,1989
+Campeche,PARM,,,LIII,1989
+Campeche,PFCRN,,,LIII,1989
+Campeche,PRD,,,LIII,1989
+Campeche,PRI,21,,LIV,1992
+Campeche,PARM,,,LIV,1992
+Campeche,PFCRN,,,LIV,1992
+Campeche,PRD,,,LIV,1992
+Campeche,PRI,21,,LV,1994
+Campeche,PAN,,,LV,1994
+Campeche,PARM,,,LV,1994
+Campeche,PRD,,,LV,1994
+Campeche,PT,,,LV,1994
+Campeche,PRI,16,,LVI,1997
+Campeche,PAN,1,,LVI,1997
+Campeche,PRD,4,,LVI,1997
+Campeche,PT,,,LVI,1997
+Campeche,PAN,6,,LVII,2000
+Campeche,PRD,,,LVII,2000
+Campeche,PRI,15,,LVII,2000
+Campeche,PT,,,LVII,2000
+Campeche,Convergencia,,,LVIII,2003
+Campeche,PAN,5,,LVIII,2003
+Campeche,PRD,,,LVIII,2003
+Campeche,PRI,16,,LVIII,2003
+Campeche,PAN,6,,LIX,2006
+Campeche,PRD,1,,LIX,2006
+Campeche,PRI,14,,LIX,2006
+Campeche,PAN,5,,LX,2009
+Campeche,PNA,2,,LX,2009
+Campeche,PNA,,,LX,2009
+Campeche,PRI,14,,LX,2009
+Campeche,PVEM,,,LX,2009
+Campeche,PAN,1,,LXI,2012
+Campeche,PNA,,,LXI,2012
+Campeche,PRD,,,LXI,2012
+Campeche,PRI,20,,LXI,2012
+Campeche,PT,,,LXI,2012
+Campeche,PRI,20,,LXII,2015
+Campeche,PAN,1,,LXII,2015
+Campeche,PRD,,,LXII,2015
+Campeche,PNA,,,LXII,2015
+Campeche,PT,,,LXII,2015
+Campeche,MC,,,LXII,2015
+Campeche,PRI,8,,LXIII,2018
+Campeche,Morena,7,,LXIII,2018
+Campeche,PAN,3,,LXIII,2018
+Campeche,PT,,,LXIII,2018
+Campeche,PNA,2,,LXIII,2018
+Campeche,PRD,,,LXIII,2018
+Campeche,PVEM,1,,LXIII,2018
+Chiapas,PRI,10,,LII,1973
+Chiapas,PAN,1,,LII,1973
+Chiapas,PRI,11,,LIII,1976
+Chiapas,PRI,11,,LIV,1979
+Chiapas,PPS,,,LIV,1979
+Chiapas,PRI,15,,LV,1982
+Chiapas,PAN,,,LV,1982
+Chiapas,PST,,,LV,1982
+Chiapas,PPS,,,LV,1982
+Chiapas,PARM,,,LV,1982
+Chiapas,PRI,15,,LVI,1985
+Chiapas,PAN,,,LVI,1985
+Chiapas,PST,,,LVI,1985
+Chiapas,PPS,,,LVI,1985
+Chiapas,PARM,,,LVI,1985
+Chiapas,PRI,15,,LVII,1988
+Chiapas,PAN,,,LVII,1988
+Chiapas,PFCRN,,,LVII,1988
+Chiapas,PRD,,,LVII,1988
+Chiapas,PRI,15,,LVIII,1991
+Chiapas,PAN,,,LVIII,1991
+Chiapas,PFCRN,,,LVIII,1991
+Chiapas,PRD,,,LVIII,1991
+Chiapas,PRI,21,,LIX,1995
+Chiapas,PAN,2,,LIX,1995
+Chiapas,PFCRN,,,LIX,1995
+Chiapas,PRD,1,,LIX,1995
+Chiapas,PT,,,LIX,1995
+Chiapas,PRI,21,,LX,1998
+Chiapas,PAN,2,,LX,1998
+Chiapas,PRD,1,,LX,1998
+Chiapas,PT,,,LX,1998
+Chiapas,Local,,,LX,1998
+Chiapas,PAN,1,,LXI,2001
+Chiapas,PAS,,,LXI,2001
+Chiapas,PRD,2,,LXI,2001
+Chiapas,PRI,21,,LXI,2001
+Chiapas,PT,,,LXI,2001
+Chiapas,PVEM,,,LXI,2001
+Chiapas,Convergencia,,,LXII,2004
+Chiapas,PAN,5,,LXII,2004
+Chiapas,PRD,6,,LXII,2004
+Chiapas,PRI,10,,LXII,2004
+Chiapas,PT,1,,LXII,2004
+Chiapas,PVEM,1,,LXII,2004
+Chiapas,Convergencia,,,LXIII,2007
+Chiapas,PAN,3,,LXIII,2007
+Chiapas,PNA,1,,LXIII,2007
+Chiapas,PRD,7,,LXIII,2007
+Chiapas,PRI,10,,LXIII,2007
+Chiapas,PT,1,,LXIII,2007
+Chiapas,PVEM,2,,LXIII,2007
+Chiapas,Convergencia,,,LXIV,2010
+Chiapas,PAN,7,,LXIV,2010
+Chiapas,PNA,1,,LXIV,2010
+Chiapas,PRD,6,,LXIV,2010
+Chiapas,PRI,7,,LXIV,2010
+Chiapas,PT,,,LXIV,2010
+Chiapas,PVEM,3,,LXIV,2010
+Chiapas,MC,1,,LXV,2012
+Chiapas,PAN,1,,LXV,2012
+Chiapas,POR CHIAPAS,3,,LXV,2012
+Chiapas,PRD,,,LXV,2012
+Chiapas,PRI,11,,LXV,2012
+Chiapas,PT,,,LXV,2012
+Chiapas,PVEM,9,,LXV,2012
+Chiapas,PAN,,,LXVI,2015
+Chiapas,PRI,7,,LXVI,2015
+Chiapas,PRD,,,LXVI,2015
+Chiapas,PVEM,12,,LXVI,2015
+Chiapas,PNA,3,,LXVI,2015
+Chiapas,Chiapas Unido,2,,LXVI,2015
+Chiapas,Morena,,,LXVI,2015
+Chiapas,Mover a Chiapas,,,LXVI,2015
+Chiapas,IND,1,,LXVII,2018
+Chiapas,Morena,5,,LXVII,2018
+Chiapas,PAN,,,LXVII,2018
+Chiapas,PCU,3,,LXVII,2018
+Chiapas,PES,4,,LXVII,2018
+Chiapas,PMC,,,LXVII,2018
+Chiapas,PRD,,,LXVII,2018
+Chiapas,PRI,2,,LXVII,2018
+Chiapas,PT,4,,LXVII,2018
+Chiapas,PVEM,5,,LXVII,2018
+Chihuahua,PRI,14,,LI,1974
+Chihuahua,PRI,14,,LII,1977
+Chihuahua,PRI,14,,LIII,1980
+Chihuahua,PAN,,,LIII,1980
+Chihuahua,PRI,9,,LIV,1983
+Chihuahua,PAN,4,,LIV,1983
+Chihuahua,PRI,14,,LV,1986
+Chihuahua,PAN,,,LV,1986
+Chihuahua,PRI,17,,LVI,1989
+Chihuahua,PAN,1,,LVI,1989
+Chihuahua,PRD,,,LVI,1989
+Chihuahua,Local,,,LVI,1989
+Chihuahua,PRI,8,,LVII,1992
+Chihuahua,PAN,10,,LVII,1992
+Chihuahua,PRD,,,LVII,1992
+Chihuahua,Coalición,,,LVII,1992
+Chihuahua,PRI,15,,LVIII,1995
+Chihuahua,PAN,3,,LVIII,1995
+Chihuahua,PRD,,,LVIII,1995
+Chihuahua,Local,,,LVIII,1995
+Chihuahua,PRI,16,,LIX,1998
+Chihuahua,PAN,6,,LIX,1998
+Chihuahua,PRD,,,LIX,1998
+Chihuahua,PAN,6,,LX,2001
+Chihuahua,PRD,,,LX,2001
+Chihuahua,PRI,16,,LX,2001
+Chihuahua,PT,,,LX,2001
+Chihuahua,PAN,5,,LXI,2004
+Chihuahua,PRD,,,LXI,2004
+Chihuahua,PRI,17,,LXI,2004
+Chihuahua,PT,,,LXI,2004
+Chihuahua,PAN,7,,LXII,2007
+Chihuahua,PNA,1,,LXII,2007
+Chihuahua,PRD,,,LXII,2007
+Chihuahua,PRI,14,,LXII,2007
+Chihuahua,PT,,,LXII,2007
+Chihuahua,PVEM,,,LXII,2007
+Chihuahua,PAN,2,,LXIII,2010
+Chihuahua,PNA,1,,LXIII,2010
+Chihuahua,PRD,,,LXIII,2010
+Chihuahua,PRI,19,,LXIII,2010
+Chihuahua,PT,,,LXIII,2010
+Chihuahua,PVEM,,,LXIII,2010
+Chihuahua,MC,,,LXIV,2013
+Chihuahua,PAN,4,,LXIV,2013
+Chihuahua,PNA,,,LXIV,2013
+Chihuahua,PRD,1,,LXIV,2013
+Chihuahua,PRI,16,,LXIV,2013
+Chihuahua,PT,,,LXIV,2013
+Chihuahua,PVEM,1,,LXIV,2013
+Chihuahua,MC,,,LXV,2016
+Chihuahua,Morena,,,LXV,2016
+Chihuahua,PAN,21,,LXV,2016
+Chihuahua,PES,,,LXV,2016
+Chihuahua,PNA,2,,LXV,2016
+Chihuahua,PRD,,,LXV,2016
+Chihuahua,PRI,6,,LXV,2016
+Chihuahua,PT,,,LXV,2016
+Chihuahua,PVEM,,,LXV,2016
+Chihuahua,MC,2,,LXVI,2018
+Chihuahua,Morena,6,,LXVI,2018
+Chihuahua,PAN,10,,LXVI,2018
+Chihuahua,PES,4,,LXVI,2018
+Chihuahua,PNA,,,LXVI,2018
+Chihuahua,PRI,2,,LXVI,2018
+Chihuahua,PT,1,,LXVI,2018
+Chihuahua,PVEM,,,LXVI,2018
+Coahuila,PRI,11,,XLVI,1973
+Coahuila,PRI,11,,XLVII,1976
+Coahuila,PRI,12,,XLVIII,1979
+Coahuila,PPS,,,XLVIII,1979
+Coahuila,PARM,,,XLVIII,1979
+Coahuila,PRI,12,,XLIX,1982
+Coahuila,PAN,,,XLIX,1982
+Coahuila,PFCRN,,,XLIX,1982
+Coahuila,PRI,12,,L,1985
+Coahuila,PAN,,,L,1985
+Coahuila,PFCRN,,,L,1985
+Coahuila,PRI,11,,LI,1988
+Coahuila,PAN,,,LI,1988
+Coahuila,PPS,,,LI,1988
+Coahuila,PARM,,,LI,1988
+Coahuila,PFCRN,,,LI,1988
+Coahuila,PRI,15,,LII,1991
+Coahuila,PAN,,,LII,1991
+Coahuila,PFCRN,,,LII,1991
+Coahuila,PRD,,,LII,1991
+Coahuila,PRI,19,,LIII,1994
+Coahuila,PAN,1,,LIII,1994
+Coahuila,PFCRN,,,LIII,1994
+Coahuila,PRD,,,LIII,1994
+Coahuila,PT,,,LIII,1994
+Coahuila,PRI,12,,LIV,1997
+Coahuila,PAN,8,,LIV,1997
+Coahuila,PFCRN,,,LIV,1997
+Coahuila,PRD,,,LIV,1997
+Coahuila,PT,,,LIV,1997
+Coahuila,Coalición,,,LV,2000
+Coahuila,PAN,1,,LV,2000
+Coahuila,PCC,,,LV,2000
+Coahuila,PRD,,,LV,2000
+Coahuila,PRI,19,,LV,2000
+Coahuila,UDC,,,LV,2000
+Coahuila,PAN,4,,LVI,2003
+Coahuila,PRD,,,LVI,2003
+Coahuila,PRI,16,,LVI,2003
+Coahuila,PT,,,LVI,2003
+Coahuila,UDC,,,LVI,2003
+Coahuila,PAN,4,,LVII,2006
+Coahuila,PRD,,,LVII,2006
+Coahuila,PRI,16,,LVII,2006
+Coahuila,PT,,,LVII,2006
+Coahuila,PVEM,,,LVII,2006
+Coahuila,UDC,,,LVII,2006
+Coahuila,PAN,,,LVIII,2009
+Coahuila,PRD,,,LVIII,2009
+Coahuila,PRI,20,,LVIII,2009
+Coahuila,UDC,,,LVIII,2009
+Coahuila,PAN,,,LIX,2012
+Coahuila,PNA,1,,LIX,2012
+Coahuila,PPC,1,,LIX,2012
+Coahuila,PRI,13,,LIX,2012
+Coahuila,PSD,,,LIX,2012
+Coahuila,PVEM,1,,LIX,2012
+Coahuila,UDC,,,LIX,2012
+Coahuila,PRI,16,,LX,2015
+Coahuila,PAN,,,LX,2015
+Coahuila,PNA,,,LX,2015
+Coahuila,PVEM,,,LX,2015
+Coahuila,PSI,,,LX,2015
+Coahuila,UDC,,,LX,2015
+Coahuila,PPC,,,LX,2015
+Coahuila,PRI,7,,LXI,2018
+Coahuila,PAN,6,,LXI,2018
+Coahuila,UDC,3,,LXI,2018
+Coahuila,Morena,,,LXI,2018
+Coahuila,PRD,,,LXI,2018
+Colima,PRI,7,,XLIV,1973
+Colima,PRI,7,,XLV,1976
+Colima,PRI,7,,XLVI,1979
+Colima,PAN,,,XLVI,1979
+Colima,PPS,,,XLVI,1979
+Colima,PRI,7,,XLVII,1982
+Colima,PAN,,,XLVII,1982
+Colima,PST,,,XLVII,1982
+Colima,PRI,10,,XLVIII,1985
+Colima,PAN,,,XLVIII,1985
+Colima,PST,,,XLVIII,1985
+Colima,PPS,,,XLVIII,1985
+Colima,PRI,10,,XLIX,1988
+Colima,PAN,,,XLIX,1988
+Colima,PPS,,,XLIX,1988
+Colima,PFCRN,,,XLIX,1988
+Colima,PMS,,,XLIX,1988
+Colima,PRI,12,,L,1991
+Colima,PAN,,,L,1991
+Colima,PDM,,,L,1991
+Colima,PFCRN,,,L,1991
+Colima,PRD,,,L,1991
+Colima,PRI,11,,LI,1994
+Colima,PAN,1,,LI,1994
+Colima,PFCRN,,,LI,1994
+Colima,PRD,,,LI,1994
+Colima,PRI,8,,LII,1997
+Colima,PAN,4,,LII,1997
+Colima,PRD,,,LII,1997
+Colima,PRI,12,,LIII,2000
+Colima,PAN,4,,LIII,2000
+Colima,PRD,,,LIII,2000
+Colima,PT,,,LIII,2000
+Colima,ADC,,,LIV,2003
+Colima,PAN,5,,LIV,2003
+Colima,PRD,,,LIV,2003
+Colima,PRI,11,,LIV,2003
+Colima,PAN,7,,LV,2006
+Colima,PRD,,,LV,2006
+Colima,PRI,8,,LV,2006
+Colima,PVEM,1,,LV,2006
+Colima,PAN,8,,LVI,2009
+Colima,PNA,6,,LVI,2009
+Colima,PRI,18,,LVI,2009
+Colima,PT,,,LVI,2009
+Colima,PRI,7,,LVII,2012
+Colima,PAN,6,,LVII,2012
+Colima,PNA,2,,LVII,2012
+Colima,PRD,1,,LVII,2012
+Colima,PVEM,,,LVII,2012
+Colima,PT,,,LVII,2012
+Colima,MC,,,LVIII,2015
+Colima,PAN,10,,LVIII,2015
+Colima,PNA,,,LVIII,2015
+Colima,PRI,6,,LVIII,2015
+Colima,PT,,,LVIII,2015
+Colima,PVEM,,,LVIII,2015
+Colima,Morena,8,,LIX,2018
+Colima,PT,4,,LIX,2018
+Colima,PRI,,,LIX,2018
+Colima,PAN,1,,LIX,2018
+Colima,PVEM,2,,LIX,2018
+Colima,PNA,,,LIX,2018
+Colima,MC,,,LIX,2018
+Colima,IND,1,,LIX,2018
+DF,PRI,24,,I,1988
+DF,PAN,13,,I,1988
+DF,PPS,,,I,1988
+DF,PARM,,,I,1988
+DF,PFCRN,3,,I,1988
+DF,PMS,,,I,1988
+DF,PRI,40,,II,1991
+DF,PAN,,,II,1991
+DF,PPS,,,II,1991
+DF,PARM,,,II,1991
+DF,PFCRN,,,II,1991
+DF,PRD,,,II,1991
+DF,PRI,38,,III,1994
+DF,PAN,2,,III,1994
+DF,PRD,,,III,1994
+DF,PT,,,III,1994
+DF,PVEM,,,III,1994
+DF,PRI,,,I,1997
+DF,PAN,2,,I,1997
+DF,PFCRN,,,I,1997
+DF,PRD,38,,I,1997
+DF,PT,,,I,1997
+DF,PVEM,,,I,1997
+DF,PAN,14,,II,2000
+DF,PVEM,7,,II,2000
+DF,PRI,0,,II,2000
+DF,PRD,18,,II,2000
+DF,PT,0,,II,2000
+DF,CDPPN,,,II,2000
+DF,DSPPN,,,II,2000
+DF,PRI,,,III,2003
+DF,PAN,3,,III,2003
+DF,PRD,37,,III,2003
+DF,PVEM,,,III,2003
+DF,México Posible,,,III,2003
+DF,PRD,34,,IV,2006
+DF,PAN,4,,IV,2006
+DF,PVEM Convergencia,1,,IV,2006
+DF,PT,1,,IV,2006
+DF,PRI,,,IV,2006
+DF,PNA,,,IV,2006
+DF,PRD,31,,V,2009
+DF,PAN,9,,V,2009
+DF,PRI,,,V,2009
+DF,PT,,,V,2009
+DF,PVEM,,,V,2009
+DF,PNA,,,V,2009
+DF,PAN,2,,VI,2012
+DF,PRI,,,VI,2012
+DF,PRD,32,,VI,2012
+DF,PT,5,,VI,2012
+DF,PVEM,,,VI,2012
+DF,MC,1,,VI,2012
+DF,PNA,,,VI,2012
+DF,PAN,5,,VII,2015
+DF,PRI,3,,VII,2015
+DF,PVEM,,,VII,2015
+DF,PRD,11,,VII,2015
+DF,PT,1,,VII,2015
+DF,PNA,1,,VII,2015
+DF,MC,,,VII,2015
+DF,Morena,19,,VII,2015
+DF,Humanista,,,VII,2015
+DF,PES,,,VII,2015
+DF,Morena,20,,VIII,2018
+DF,PRD,11,,VIII,2018
+DF,PAN,5,,VIII,2018
+DF,PRI,3,,VIII,2018
+DF,MC,,,VIII,2018
+DF,PVEM,,,VIII,2018
+DF,IND,,,VIII,2018
+DF,PT,1,,VIII,2018
+DF,PES,,,VIII,2018
+DF,Humanista,,,VIII,2018
+DF,PNA,1,,VIII,2018
+Durango,PRI,11,,LIII,1974
+Durango,PRI,11,,LIV,1977
+Durango,PRI,12,,LV,1980
+Durango,PAN,,,LV,1980
+Durango,PPS,,,LV,1980
+Durango,PARM,,,LV,1980
+Durango,PCM,,,LV,1980
+Durango,PRI,12,,LVI,1983
+Durango,PPS,,,LVI,1983
+Durango,PSUM,,,LVI,1983
+Durango,PRI,12,,LVII,1986
+Durango,PAN,,,LVII,1986
+Durango,PST,,,LVII,1986
+Durango,PRT,,,LVII,1986
+Durango,PRI,15,,LVIII,1989
+Durango,PAN,,,LVIII,1989
+Durango,PPS,,,LVIII,1989
+Durango,PRD,,,LVIII,1989
+Durango,Local,,,LVIII,1989
+Durango,PRI,12,,LIX,1992
+Durango,PAN,3,,LIX,1992
+Durango,PRD,,,LIX,1992
+Durango,PT,,,LIX,1992
+Durango,PRI,10,,LX,1995
+Durango,PAN,3,,LX,1995
+Durango,PRD,,,LX,1995
+Durango,PT,2,,LX,1995
+Durango,PRI,14,,LXI,1998
+Durango,PAN,1,,LXI,1998
+Durango,PRD,,,LXI,1998
+Durango,PT,,,LXI,1998
+Durango,PAN,2,,LXII,2001
+Durango,PD,,,LXII,2001
+Durango,PRD,,,LXII,2001
+Durango,PRI,13,,LXII,2001
+Durango,PT,,,LXII,2001
+Durango,PAN,,,LXIII,2004
+Durango,PD,,,LXIII,2004
+Durango,PRD,,,LXIII,2004
+Durango,PRI,15,,LXIII,2004
+Durango,PT,,,LXIII,2004
+Durango,PAN,,,LXIV,2007
+Durango,PD,,,LXIV,2007
+Durango,PNA,,,LXIV,2007
+Durango,PRD,,,LXIV,2007
+Durango,PRI,17,,LXIV,2007
+Durango,PT,,,LXIV,2007
+Durango,PAN,4,,LXV,2010
+Durango,PD,,,LXV,2010
+Durango,PNA,2,,LXV,2010
+Durango,PRD,,,LXV,2010
+Durango,PRI,11,,LXV,2010
+Durango,PT,,,LXV,2010
+Durango,PVEM,,,LXV,2010
+Durango,Coalición,,,LXVI,2013
+Durango,MC,,,LXVI,2013
+Durango,PAN,,,LXVI,2013
+Durango,PD,,,LXVI,2013
+Durango,PNA,,,LXVI,2013
+Durango,PRD,,,LXVI,2013
+Durango,PRI,17,,LXVI,2013
+Durango,PT,,,LXVI,2013
+Durango,PVEM,,,LXVI,2013
+Durango,PAN,5,,LXVII,2016
+Durango,PRD,1,,LXVII,2016
+Durango,PRI,6,,LXVII,2016
+Durango,PNA,1,,LXVII,2016
+Durango,PVEM,1,,LXVII,2016
+Durango,PD,1,,LXVII,2016
+Durango,PVEM,,,LXVII,2016
+Durango,Morena,7,,LXVIII,2018
+Durango,PT,4,,LXVIII,2018
+Durango,PAN,3,,LXVIII,2018
+Durango,PRI,1,,LXVIII,2018
+Durango,PVEM,,,LXVIII,2018
+Estado de México,PRI,15,,XLV,1972
+Estado de México,PRI,21,,XLVI,1975
+Estado de México,PAN,,,XLVI,1975
+Estado de México,PPS,,,XLVI,1975
+Estado de México,PRI,28,,XLVII,1978
+Estado de México,PPS,,,XLVII,1978
+Estado de México,PARM,,,XLVII,1978
+Estado de México,PRI,28,,XLVIII,1981
+Estado de México,PAN,,,XLVIII,1981
+Estado de México,PST,,,XLVIII,1981
+Estado de México,PPS,,,XLVIII,1981
+Estado de México,PARM,,,XLVIII,1981
+Estado de México,PCM,,,XLVIII,1981
+Estado de México,PRI,34,,XLIX,1984
+Estado de México,PAN,,,XLIX,1984
+Estado de México,PST,,,XLIX,1984
+Estado de México,PDM,,,XLIX,1984
+Estado de México,PPS,,,XLIX,1984
+Estado de México,PARM,,,XLIX,1984
+Estado de México,Coalición,,,XLIX,1984
+Estado de México,PRI,34,,L,1987
+Estado de México,PAN,,,L,1987
+Estado de México,PST,,,L,1987
+Estado de México,PDM,,,L,1987
+Estado de México,PPS,,,L,1987
+Estado de México,PARM,,,L,1987
+Estado de México,PRT,,,L,1987
+Estado de México,PMS,,,L,1987
+Estado de México,PRI,34,,LI,1990
+Estado de México,PAN,,,LI,1990
+Estado de México,PDM,,,LI,1990
+Estado de México,PPS,,,LI,1990
+Estado de México,PARM,,,LI,1990
+Estado de México,PFCRN,,,LI,1990
+Estado de México,PRD,,,LI,1990
+Estado de México,PRI,40,,LII,1993
+Estado de México,PAN,,,LII,1993
+Estado de México,PPS,,,LII,1993
+Estado de México,PFCRN,,,LII,1993
+Estado de México,PRD,,,LII,1993
+Estado de México,PVEM,,,LII,1993
+Estado de México,PRI,30,,LIII,1996
+Estado de México,PAN,10,,LIII,1996
+Estado de México,PFCRN,,,LIII,1996
+Estado de México,PRD,5,,LIII,1996
+Estado de México,PT,,,LIII,1996
+Estado de México,PVEM,,,LIII,1996
+Estado de México,PRI,18,,LIV,1999
+Estado de México,PAN,21,,LIV,1999
+Estado de México,PRD,6,,LIV,1999
+Estado de México,PT,,,LIV,1999
+Estado de México,PVEM,,,LIV,1999
+Estado de México,DEMOCRACIA SOCIAL,,,LIV,1999
+Estado de México,PRI,24,,LV,2003
+Estado de México,PAN,11,,LV,2003
+Estado de México,PRD,10,,LV,2003
+Estado de México,PVEM,,,LV,2003
+Estado de México,PT,,,LV,2003
+Estado de México,Convergencia,,,LV,2003
+Estado de México,PAN,9,,LVI,2006
+Estado de México,PC,,,LVI,2006
+Estado de México,PRD,16,,LVI,2006
+Estado de México,PRI,19,,LVI,2006
+Estado de México,PT,1,,LVI,2006
+Estado de México,PVEM,,,LVI,2006
+Estado de México,PRI,39,,LVII,2009
+Estado de México,PAN,2,,LVII,2009
+Estado de México,PRD,3,,LVII,2009
+Estado de México,PNA,1,,LVII,2009
+Estado de México,PVEM,,,LVII,2009
+Estado de México,PT,,,LVII,2009
+Estado de México,Convergencia,,,LVII,2009
+Estado de México,PSD,,,LVII,2009
+Estado de México,PRI,39,,LVIII,2012
+Estado de México,PRD,3,,LVIII,2012
+Estado de México,PAN,1,,LVIII,2012
+Estado de México,PNA,2,,LVIII,2012
+Estado de México,PVEM,,,LVIII,2012
+Estado de México,PT,,,LVIII,2012
+Estado de México,MC,,,LVIII,2012
+Estado de México,PRI,33,,LIX,2015
+Estado de México,PRD,7,,LIX,2015
+Estado de México,PAN,4,,LIX,2015
+Estado de México,Morena,1,,LIX,2015
+Estado de México,MC,,,LIX,2015
+Estado de México,PES,,,LIX,2015
+Estado de México,PT,,,LIX,2015
+Estado de México,PVEM,,,LIX,2015
+Estado de México,PNA,,,LIX,2015
+Estado de México,Morena,29,,LX,2018
+Estado de México,PRI,1,,LX,2018
+Estado de México,PT,8,,LX,2018
+Estado de México,PAN,2,,LX,2018
+Estado de México,PES,5,,LX,2018
+Estado de México,PRD,,,LX,2018
+Estado de México,PVEM,,,LX,2018
+Guanajuato,PRI,13,,XLIX,1973
+Guanajuato,PRI,16,,L,1976
+Guanajuato,PRI,18,,LI,1979
+Guanajuato,PAN,,,LI,1979
+Guanajuato,PPS,,,LI,1979
+Guanajuato,PARM,,,LI,1979
+Guanajuato,PRI,18,,LII,1982
+Guanajuato,PAN,,,LII,1982
+Guanajuato,PST,,,LII,1982
+Guanajuato,PDM,,,LII,1982
+Guanajuato,PRI,17,,LIII,1985
+Guanajuato,PAN,1,,LIII,1985
+Guanajuato,PST,,,LIII,1985
+Guanajuato,PDM,,,LIII,1985
+Guanajuato,PRI,15,,LIV,1988
+Guanajuato,PAN,5,,LIV,1988
+Guanajuato,PDM,,,LIV,1988
+Guanajuato,PPS,,,LIV,1988
+Guanajuato,PARM,,,LIV,1988
+Guanajuato,PFCRN,,,LIV,1988
+Guanajuato,PRI,15,,LV,1991
+Guanajuato,PAN,3,,LV,1991
+Guanajuato,PDM,,,LV,1991
+Guanajuato,PPS,,,LV,1991
+Guanajuato,PFCRN,,,LV,1991
+Guanajuato,PRD,,,LV,1991
+Guanajuato,PRI,17,,LVI,1994
+Guanajuato,PAN,1,,LVI,1994
+Guanajuato,PRD,,,LVI,1994
+Guanajuato,PRI,6,,LVII,1997
+Guanajuato,PAN,14,,LVII,1997
+Guanajuato,PDM,,,LVII,1997
+Guanajuato,PRD,2,,LVII,1997
+Guanajuato,PT,,,LVII,1997
+Guanajuato,PVEM,,,LVII,1997
+Guanajuato,PAN,22,,LVIII,2000
+Guanajuato,PAS,,,LVIII,2000
+Guanajuato,PRD,,,LVIII,2000
+Guanajuato,PRI,,,LVIII,2000
+Guanajuato,PVEM,,,LVIII,2000
+Guanajuato,PAN,17,,LIX,2003
+Guanajuato,PRD,2,,LIX,2003
+Guanajuato,PRI,3,,LIX,2003
+Guanajuato,PT,,,LIX,2003
+Guanajuato,PVEM,,,LIX,2003
+Guanajuato,PAN,22,,LX,2006
+Guanajuato,PRD,,,LX,2006
+Guanajuato,PRI,,,LX,2006
+Guanajuato,PT,,,LX,2006
+Guanajuato,PVEM,,,LX,2006
+Guanajuato,Convergencia,,,LXI,2009
+Guanajuato,PAN,22,,LXI,2009
+Guanajuato,PNA,,,LXI,2009
+Guanajuato,PRD,,,LXI,2009
+Guanajuato,PRI,,,LXI,2009
+Guanajuato,PVEM,,,LXI,2009
+Guanajuato,PAN,17,,LXII,2012
+Guanajuato,PNA,,,LXII,2012
+Guanajuato,PRD,,,LXII,2012
+Guanajuato,PRI,3,,LXII,2012
+Guanajuato,PVEM,,,LXII,2012
+Guanajuato,MC,,,LXIII,2015
+Guanajuato,Morena,,,LXIII,2015
+Guanajuato,PAN,19,,LXIII,2015
+Guanajuato,PNA,,,LXIII,2015
+Guanajuato,PRD,,,LXIII,2015
+Guanajuato,PRI,3,,LXIII,2015
+Guanajuato,PVEM,,,LXIII,2015
+Guanajuato,MC,,,LXIV,2018
+Guanajuato,Morena,,,LXIV,2018
+Guanajuato,PAN,19,,LXIV,2018
+Guanajuato,PNA,,,LXIV,2018
+Guanajuato,PRD,1,,LXIV,2018
+Guanajuato,PRI,,,LXIV,2018
+Guanajuato,PT,1,,LXIV,2018
+Guanajuato,PVEM,,,LXIV,2018
+Guanajuato,IND,1,,LXIV,2018
+Guerrero,PRI,11,,XLVII,1972
+Guerrero,PRI,11,,XLVIII,1975
+Guerrero,PRI,11,,XLIX,1978
+Guerrero,PPS,,1,XLIX,1978
+Guerrero,PRI,11,,L,1981
+Guerrero,PRI,14,,LI,1984
+Guerrero,PST,,,LI,1984
+Guerrero,PCM,,,LI,1984
+Guerrero,PRI,14,,LII,1987
+Guerrero,PAN,,,LII,1987
+Guerrero,PARM,,,LII,1987
+Guerrero,PRT,,,LII,1987
+Guerrero,PRD,,,LII,1987
+Guerrero,PRI,21,,LIII,1990
+Guerrero,PPS,,,LIII,1990
+Guerrero,PFCRN,,,LIII,1990
+Guerrero,PRT,,,LIII,1990
+Guerrero,PRD,1,,LIII,1990
+Guerrero,Local,,,LIII,1990
+Guerrero,PRI,28,,LIV,1993
+Guerrero,PAN,,,LIV,1993
+Guerrero,PPS,,,LIV,1993
+Guerrero,PFCRN,,,LIV,1993
+Guerrero,PRT,,,LIV,1993
+Guerrero,PRD,,,LIV,1993
+Guerrero,PRI,24,,LV,1996
+Guerrero,PAN,1,,LV,1996
+Guerrero,PFCRN,,,LV,1996
+Guerrero,PRD,3,,LV,1996
+Guerrero,PT,,,LV,1996
+Guerrero,PRI,23,,LVI,1999
+Guerrero,PAN,,,LVI,1999
+Guerrero,PPS,,,LVI,1999
+Guerrero,PRD,5,,LVI,1999
+Guerrero,PRI,16,,LVII,2002
+Guerrero,PAN,,,LVII,2002
+Guerrero,PRD,12,,LVII,2002
+Guerrero,PCD,,,LVII,2002
+Guerrero,PVEM,,,LVII,2002
+Guerrero,PRS,,,LVII,2002
+Guerrero,PT,,,LVII,2002
+Guerrero,PRI,9,,LVIII,2005
+Guerrero,PAN,1,,LVIII,2005
+Guerrero,PRD,18,,LVIII,2005
+Guerrero,Convergencia,,,LVIII,2005
+Guerrero,PVEM,,,LVIII,2005
+Guerrero,PT,,,LVIII,2005
+Guerrero,PRI,13,,LIX,2008
+Guerrero,PAN,1,,LIX,2008
+Guerrero,PRD,13,,LIX,2008
+Guerrero,CONVERGENCIA,1,,LIX,2008
+Guerrero,PVE,,,LIX,2008
+Guerrero,PT,,,LIX,2008
+Guerrero,PNA,,,LIX,2008
+Guerrero,PRI,6,,LX,2012
+Guerrero,PAN,,,LX,2012
+Guerrero,PRD,22,,LX,2012
+Guerrero,MC,2,,LX,2012
+Guerrero,PVEM,,,LX,2012
+Guerrero,PT,,,LX,2012
+Guerrero,PNA,,,LX,2012
+Guerrero,PRI,15,,LXI,2015
+Guerrero,PAN,,,LXI,2015
+Guerrero,PRD,9,,LXI,2015
+Guerrero,MC,,,LXI,2015
+Guerrero,PVEM,4,,LXI,2015
+Guerrero,PT,,,LXI,2015
+Guerrero,Morena,,,LXI,2015
+Guerrero,PRI,5,,LXII,2018
+Guerrero,PAN,,,LXII,2018
+Guerrero,PRD,3,,LXII,2018
+Guerrero,MC,,,LXII,2018
+Guerrero,PVEM,1,,LXII,2018
+Guerrero,PT,,,LXII,2018
+Guerrero,Morena,19,,LXII,2018
+Hidalgo,PRI,15,,XLVII,1972
+Hidalgo,PRI,15,,XLVIII,1975
+Hidalgo,PRI,15,,XLIX,1975
+Hidalgo,PRI,15,,L,1978
+Hidalgo,PRI,15,,LI,1981
+Hidalgo,PAN,,,LI,1981
+Hidalgo,PST,,,LI,1981
+Hidalgo,PPS,,,LI,1981
+Hidalgo,PARM,,,LI,1981
+Hidalgo,PRI,15,,LII,1984
+Hidalgo,PAN,,,LII,1984
+Hidalgo,PST,,,LII,1984
+Hidalgo,PDM,,,LII,1984
+Hidalgo,PPS,,,LII,1984
+Hidalgo,PRI,15,,LIII,1987
+Hidalgo,PAN,,,LIII,1987
+Hidalgo,PPS,,,LIII,1987
+Hidalgo,PFCRN,,,LIII,1987
+Hidalgo,PRD,,,LIII,1987
+Hidalgo,PRI,15,,LIV,1990
+Hidalgo,PAN,,,LIV,1990
+Hidalgo,PARM,,,LIV,1990
+Hidalgo,PFCRN,,,LIV,1990
+Hidalgo,PRD,,,LIV,1990
+Hidalgo,PRI,17,,LV,1993
+Hidalgo,PAN,,,LV,1993
+Hidalgo,PARM,,,LV,1993
+Hidalgo,PFCRN,,,LV,1993
+Hidalgo,PRD,,,LV,1993
+Hidalgo,PRI,18,,LVI,1996
+Hidalgo,PAN,,,LVI,1996
+Hidalgo,PRD,,,LVI,1996
+Hidalgo,PT,,,LVI,1996
+Hidalgo,PRI,16,,LVII,1999
+Hidalgo,PAN,2,,LVII,1999
+Hidalgo,Coalición,,,LVII,1999
+Hidalgo,PRI,18,,LVIII,2002
+Hidalgo,PAN,,,LVIII,2002
+Hidalgo,PRD,,,LVIII,2002
+Hidalgo,PRI,18,,LIX,2005
+Hidalgo,PAN,,,LIX,2005
+Hidalgo,PRD,,,LIX,2005
+Hidalgo,PVEM,,,LIX,2005
+Hidalgo,PT,,,LIX,2005
+Hidalgo,PRI,18,,LX,2008
+Hidalgo,PAN,,,LX,2008
+Hidalgo,PRD,,,LX,2008
+Hidalgo,PVEM,,,LX,2008
+Hidalgo,PNA,,,LX,2008
+Hidalgo,PRI,15,,LXI,2011
+Hidalgo,PAN,1,,LXI,2011
+Hidalgo,PRD,2,,LXI,2011
+Hidalgo,PVEM,,,LXI,2011
+Hidalgo,PNA,,,LXI,2011
+Hidalgo,PT,,,LXI,2011
+Hidalgo,CONVERGENCIA,,,LXI,2011
+Hidalgo,PRI,18,,LXII,2013
+Hidalgo,PAN,,,LXII,2013
+Hidalgo,PRD,,,LXII,2013
+Hidalgo,PVEM,3,,LXII,2013
+Hidalgo,PNA,,,LXII,2013
+Hidalgo,PRI,7,,LXIII,2016
+Hidalgo,PAN,5,,LXIII,2016
+Hidalgo,PRD,1,,LXIII,2016
+Hidalgo,PVEM,2,,LXIII,2016
+Hidalgo,PNA,3,,LXIII,2016
+Hidalgo,MC,,,LXIII,2016
+Hidalgo,PES,,,LXIII,2016
+Hidalgo,Morena,,,LXIII,2016
+Hidalgo,PRI,1,,LXIV,2018
+Hidalgo,PAN,,,LXIV,2018
+Hidalgo,PRD,,,LXIV,2018
+Hidalgo,PNA,,,LXIV,2018
+Hidalgo,PES,,,LXIV,2018
+Hidalgo,PT,,,LXIV,2018
+Hidalgo,Morena,17,,LXIV,2018
+Jalisco,PRI,15,,XLVII,1974
+Jalisco,PAN,2,,XLVII,1974
+Jalisco,PRI,18,,XLVIII,1977
+Jalisco,PRI,20,,XLIX,1980
+Jalisco,PAN,,,XLIX,1980
+Jalisco,PDM,,,XLIX,1980
+Jalisco,PARM,,,XLIX,1980
+Jalisco,PCM,,,XLIX,1980
+Jalisco,PRI,20,,L,1983
+Jalisco,PAN,,,L,1983
+Jalisco,PDM,,,L,1983
+Jalisco,PSUM,,,L,1983
+Jalisco,PRI,20,,LI,1986
+Jalisco,PAN,,,LI,1986
+Jalisco,PDM,,,LI,1986
+Jalisco,PARM,,,LI,1986
+Jalisco,PRI,19,,LII,1989
+Jalisco,PAN,1,,LII,1989
+Jalisco,PARM,,,LII,1989
+Jalisco,Local,,,LII,1989
+Jalisco,PRI,20,,LIII,1992
+Jalisco,PAN,,,LIII,1992
+Jalisco,PFCRN,,,LIII,1992
+Jalisco,PRD,,,LIII,1992
+Jalisco,PRI,3,,LIV,1995
+Jalisco,PAN,17,,LIV,1995
+Jalisco,PRD,,,LIV,1995
+Jalisco,PRI,11,,LV,1998
+Jalisco,PAN,9,,LV,1998
+Jalisco,PRD,,,LV,1998
+Jalisco,PVEM,,,LV,1998
+Jalisco,PAN,14,,LVI,2001
+Jalisco,PRD,,,LVI,2001
+Jalisco,PRI,6,,LVI,2001
+Jalisco,PVEM,,,LVI,2001
+Jalisco,PAN,17,,LVII,2004
+Jalisco,PRD,2,,LVII,2004
+Jalisco,PRI,19,,LVII,2004
+Jalisco,PVEM,2,,LVII,2004
+Jalisco,PAN,19,,LVIII,2007
+Jalisco,PNA,,,LVIII,2007
+Jalisco,PRD,,,LVIII,2007
+Jalisco,PRI,1,,LVIII,2007
+Jalisco,PT,,,LVIII,2007
+Jalisco,PVEM,,,LVIII,2007
+Jalisco,PAN,8,,LIX,2010
+Jalisco,PRD,,,LIX,2010
+Jalisco,PRI,12,,LIX,2010
+Jalisco,PVEM,,,LIX,2010
+Jalisco,MC,,,LX,2013
+Jalisco,PAN,5,,LX,2013
+Jalisco,PMC,2,,LX,2013
+Jalisco,PRD,,,LX,2013
+Jalisco,PRI,10,,LX,2013
+Jalisco,PVEM,1,,LX,2013
+Jalisco,IND,1,,LXI,2016
+Jalisco,MC,9,,LXI,2016
+Jalisco,PAN,,,LXI,2016
+Jalisco,PNA,,,LXI,2016
+Jalisco,PRD,,,LXI,2016
+Jalisco,PRI,8,,LXI,2016
+Jalisco,PVEM,2,,LXI,2016
+Jalisco,MC,9,,LXII,2018
+Jalisco,PAN,6,,LXII,2018
+Jalisco,Morena,3,,LXII,2018
+Jalisco,PRI,,,LXII,2018
+Jalisco,PRD,2,,LXII,2018
+Jalisco,PT,,,LXII,2018
+Jalisco,PVEM,,,LXII,2018
+Michoacán,PRI,16,,LX,1974
+Michoacán,PRI,16,,LXI,1977
+Michoacán,PPS,,,LXI,1977
+Michoacán,PRI,18,,LXII,1980
+Michoacán,PRI,18,,LXIII,1983
+Michoacán,PAN,,,LXIII,1983
+Michoacán,PDM,,,LXIII,1983
+Michoacán,PSUM,,,LXIII,1983
+Michoacán,PRI,18,,LXIV,1986
+Michoacán,PAN,,,LXIV,1986
+Michoacán,PST,,,LXIV,1986
+Michoacán,PDM,,,LXIV,1986
+Michoacán,PARM,,,LXIV,1986
+Michoacán,PRI,12,,LXV,1989
+Michoacán,PAN,,,LXV,1989
+Michoacán,PARM,,,LXV,1989
+Michoacán,PFCRN,,,LXV,1989
+Michoacán,PRD,6,,LXV,1989
+Michoacán,PRI,17,,LXVI,1992
+Michoacán,PAN,,,LXVI,1992
+Michoacán,PRD,1,,LXVI,1992
+Michoacán,PRI,11,,LXVII,1995
+Michoacán,PAN,4,,LXVII,1995
+Michoacán,PRD,3,,LXVII,1995
+Michoacán,PRI,18,,LXVIII,1998
+Michoacán,PAN,,,LXVIII,1998
+Michoacán,PRD,,,LXVIII,1998
+Michoacán,PT,,,LXVIII,1998
+Michoacán,PAN,1,,LXIX,2001
+Michoacán,PRD,12,,LXIX,2001
+Michoacán,PRI,11,,LXIX,2001
+Michoacán,PT,,,LXIX,2001
+Michoacán,PAN,3,,LXX,2005
+Michoacán,PRD,11,,LXX,2005
+Michoacán,PRI,10,,LXX,2005
+Michoacán,PT,,,LXX,2005
+Michoacán,PVEM,,,LXX,2005
+Michoacán,Convergencia,,,LXXI,2008
+Michoacán,PAN,8,,LXXI,2008
+Michoacán,PNA,,,LXXI,2008
+Michoacán,PRD,11,,LXXI,2008
+Michoacán,PRI,5,,LXXI,2008
+Michoacán,PT,,,LXXI,2008
+Michoacán,PVEM,,,LXXI,2008
+Michoacán,PAN,5,,LXXII,2012
+Michoacán,PRD,7,,LXXII,2012
+Michoacán,PRI,12,,LXXII,2012
+Michoacán,PT,,,LXXII,2012
+Michoacán,PVEM,,,LXXII,2012
+Michoacán,MC,,,LXXIII,2015
+Michoacán,Morena,,,LXXIII,2015
+Michoacán,PAN,2,,LXXIII,2015
+Michoacán,PRD,9,,LXXIII,2015
+Michoacán,PRI,10,,LXXIII,2015
+Michoacán,PT,1,,LXXIII,2015
+Michoacán,PVEM,2,,LXXIII,2015
+Michoacán,Indep,,,LXXIV,2018
+Michoacán,MC,,,LXXIV,2018
+Michoacán,Morena,11,,LXXIV,2018
+Michoacán,PAN,5,,LXXIV,2018
+Michoacán,PRD,4,,LXXIV,2018
+Michoacán,PRI,,,LXXIV,2018
+Michoacán,PT,4,,LXXIV,2018
+Michoacán,PVEM,,,LXXIV,2018
+Morelos,PRI,7,,XXXIX,1973
+Morelos,PRI,9,,XL,1976
+Morelos,PRI,12,,XLI,1979
+Morelos,PAN,,,XLI,1979
+Morelos,PPS,,,XLI,1979
+Morelos,PARM,,,XLI,1979
+Morelos,PRI,12,,XLII,1982
+Morelos,PAN,,,XLII,1982
+Morelos,PST,,,XLII,1982
+Morelos,PARM,,,XLII,1982
+Morelos,PRI,12,,XLIII,1985
+Morelos,PAN,,,XLIII,1985
+Morelos,PST,,,XLIII,1985
+Morelos,PSUM,,,XLIII,1985
+Morelos,PRI,12,,XLIV,1988
+Morelos,PAN,,,XLIV,1988
+Morelos,PFCRN,,,XLIV,1988
+Morelos,PMS,,,XLIV,1988
+Morelos,PRI,12,,XLV,1991
+Morelos,PAN,,,XLV,1991
+Morelos,PARM,,,XLV,1991
+Morelos,PFCRN,,,XLV,1991
+Morelos,PRD,,,XLV,1991
+Morelos,PRI,15,,XLVI,1994
+Morelos,PAN,,,XLVI,1994
+Morelos,PRD,,,XLVI,1994
+Morelos,PRI,8,,XLVII,1997
+Morelos,PAN,3,,XLVII,1997
+Morelos,PRD,7,,XLVII,1997
+Morelos,Local,,,XLVII,1997
+Morelos,PAN,10,,XLVIII,2000
+Morelos,PRD,,,XLVIII,2000
+Morelos,PRI,8,,XLVIII,2000
+Morelos,Convergencia,,,XLIX,2003
+Morelos,PAN,9,,XLIX,2003
+Morelos,PRD,4,,XLIX,2003
+Morelos,PRI,5,,XLIX,2003
+Morelos,PVEM,,,XLIX,2003
+Morelos,PAN,9,,L,2006
+Morelos,PC,2,,L,2006
+Morelos,PNA,,,L,2006
+Morelos,PRD,7,,L,2006
+Morelos,PRI,,,L,2006
+Morelos,PVEM,,,L,2006
+Morelos,Convergencia,,,LI,2009
+Morelos,PAN,3,,LI,2009
+Morelos,PNA,,,LI,2009
+Morelos,PRD,,,LI,2009
+Morelos,PRI,15,,LI,2009
+Morelos,PT,,,LI,2009
+Morelos,PVEM,,,LI,2009
+Morelos,Guzmán,1,,LII,2012
+Morelos,MC,2,,LII,2012
+Morelos,PAN,,,LII,2012
+Morelos,PNA,,,LII,2012
+Morelos,PRD,7,,LII,2012
+Morelos,PRI,4,,LII,2012
+Morelos,PSD,,,LII,2012
+Morelos,PT,3,,LII,2012
+Morelos,PVEC,,,LII,2012
+Morelos,PVEM,1,,LII,2012
+Morelos,HUMAN,,,LIII,2015
+Morelos,MC,,,LIII,2015
+Morelos,Morena,,,LIII,2015
+Morelos,PAN,3,,LIII,2015
+Morelos,PES,,,LIII,2015
+Morelos,PNA,2,,LIII,2015
+Morelos,PRD,8,,LIII,2015
+Morelos,PRI,4,,LIII,2015
+Morelos,PSD,,,LIII,2015
+Morelos,PT,,,LIII,2015
+Morelos,PVEM,1,,LIII,2015
+Morelos,Morena,6,,LIV,2018
+Morelos,PES,5,,LIV,2018
+Morelos,PT,1,,LIV,2018
+Morelos,PAN,,,LIV,2018
+Morelos,PRI,,,LIV,2018
+Morelos,PRD,,,LIV,2018
+Morelos,MC,,,LIV,2018
+Morelos,PNA,,,LIV,2018
+Morelos,Humanista,,,LIV,2018
+Nayarit,PRI,7,,XVII,1972
+Nayarit,PPS,,,XVII,1972
+Nayarit,PARM,,,XVII,1972
+Nayarit,PRI,9,,XVIIII,1975
+Nayarit,PPS,,,XVIIII,1975
+Nayarit,PRI,15,,XIX,1978
+Nayarit,PPS,,,XIX,1978
+Nayarit,PARM,,,XIX,1978
+Nayarit,PRI,15,,XX,1981
+Nayarit,PPS,,,XX,1981
+Nayarit,PSUM,,,XX,1981
+Nayarit,PRI,17,,XXI,1984
+Nayarit,PDM,,,XXI,1984
+Nayarit,PPS,,,XXI,1984
+Nayarit,PSUM,,,XXI,1984
+Nayarit,PRI,18,,XXII,1987
+Nayarit,PAN,,,XXII,1987
+Nayarit,PPS,,,XXII,1987
+Nayarit,PRD,,,XXII,1987
+Nayarit,PRI,18,,XXIII,1990
+Nayarit,PAN,,,XXIII,1990
+Nayarit,PPS,,,XXIII,1990
+Nayarit,PARM,,,XXIII,1990
+Nayarit,PRD,,,XXIII,1990
+Nayarit,Local,,,XXIII,1990
+Nayarit,PRI,17,,XXIV,1993
+Nayarit,PAN,,,XXIV,1993
+Nayarit,PPS,,,XXIV,1993
+Nayarit,PRD,1,,XXIV,1993
+Nayarit,PT,,,XXIV,1993
+Nayarit,Local,,,XXIV,1993
+Nayarit,PRI,17,,XXV,1996
+Nayarit,PAN,1,,XXV,1996
+Nayarit,PRD,,,XXV,1996
+Nayarit,PT,,,XXV,1996
+Nayarit,PAN,4,,XXVI,1999
+Nayarit,PRD,7,,XXVI,1999
+Nayarit,PRI,5,,XXVI,1999
+Nayarit,PRS,,,XXVI,1999
+Nayarit,PT,2,,XXVI,1999
+Nayarit,PAN,,,XXVII,2002
+Nayarit,PCD,,,XXVII,2002
+Nayarit,PRD,,,XXVII,2002
+Nayarit,PRI,18,,XXVII,2002
+Nayarit,PT,,,XXVII,2002
+Nayarit,Convergencia,,,XXVIII,2005
+Nayarit,PAN,,,XXVIII,2005
+Nayarit,PRD,2,,XXVIII,2005
+Nayarit,PRI,16,,XXVIII,2005
+Nayarit,PRS,,,XXVIII,2005
+Nayarit,PT,,,XXVIII,2005
+Nayarit,Convergencia,,,XXIX,2008
+Nayarit,PAN,1,,XXIX,2008
+Nayarit,PNA,1,,XXIX,2008
+Nayarit,PRD,1,,XXIX,2008
+Nayarit,PRI,14,,XXIX,2008
+Nayarit,PT,,,XXIX,2008
+Nayarit,PV,1,,XXIX,2008
+Nayarit,Convergencia,,,XXX,2011
+Nayarit,PAN,4,,XXX,2011
+Nayarit,PNA,,,XXX,2011
+Nayarit,PRD,,,XXX,2011
+Nayarit,PRI,14,,XXX,2011
+Nayarit,PVEM,,,XXX,2011
+Nayarit,MC,,,XXXI,2014
+Nayarit,PAN,2,,XXXI,2014
+Nayarit,PRD,2,,XXXI,2014
+Nayarit,PRI,13,,XXXI,2014
+Nayarit,PT,,,XXXI,2014
+Nayarit,PVEM,1,,XXXI,2014
+Nayarit,indep,1,,XXXII,2017
+Nayarit,MC,,,XXXII,2017
+Nayarit,Morena,1,,XXXII,2017
+Nayarit,PAN,8,,XXXII,2017
+Nayarit,PNA,,,XXXII,2017
+Nayarit,PRD,,,XXXII,2017
+Nayarit,PRI,6,,XXXII,2017
+Nayarit,PT,,,XXXII,2017
+Nuevo León,PRI,15,,LX,1973
+Nuevo León,PRI,15,,LXI,1976
+Nuevo León,PRI,14,,LXII,1979
+Nuevo León,PAN,1,,LXII,1979
+Nuevo León,PPS,,,LXII,1979
+Nuevo León,PARM,,,LXII,1979
+Nuevo León,PRI,21,,LXIII,1982
+Nuevo León,PAN,,,LXIII,1982
+Nuevo León,PDM,,,LXIII,1982
+Nuevo León,PPS,,,LXIII,1982
+Nuevo León,PARM,,,LXIII,1982
+Nuevo León,PRI,24,,LXIV,1985
+Nuevo León,PAN,2,,LXIV,1985
+Nuevo León,PST,,,LXIV,1985
+Nuevo León,PDM,,,LXIV,1985
+Nuevo León,PPS,,,LXIV,1985
+Nuevo León,PARM,,,LXIV,1985
+Nuevo León,PRI,25,,LXV,1988
+Nuevo León,PAN,1,,LXV,1988
+Nuevo León,PRI,25,,LXVI,1991
+Nuevo León,PAN,1,,LXVI,1991
+Nuevo León,PFCRN,,,LXVI,1991
+Nuevo León,PRI,15,,LXVII,1994
+Nuevo León,PAN,11,,LXVII,1994
+Nuevo León,PRD,,,LXVII,1994
+Nuevo León,PT,,,LXVII,1994
+Nuevo León,PRI,8,,LXVIII,1997
+Nuevo León,PAN,18,,LXVIII,1997
+Nuevo León,PRD,,,LXVIII,1997
+Nuevo León,PT,,,LXVIII,1997
+Nuevo León,PAN,16,,LXIX,2000
+Nuevo León,PRD,,,LXIX,2000
+Nuevo León,PRI,9,,LXIX,2000
+Nuevo León,PT,,,LXIX,2000
+Nuevo León,IND,,,LXX,2003
+Nuevo León,PAN,6,,LXX,2003
+Nuevo León,PRD,,,LXX,2003
+Nuevo León,PRI,18,,LXX,2003
+Nuevo León,PT,,,LXX,2003
+Nuevo León,PVEM,2,,LXX,2003
+Nuevo León,PAN,16,,LXXI,2006
+Nuevo León,PNA,,,LXXI,2006
+Nuevo León,PRD,,,LXXI,2006
+Nuevo León,PRI,10,,LXXI,2006
+Nuevo León,PT,,,LXXI,2006
+Nuevo León,PAN,12,,LXXII,2009
+Nuevo León,PNA,,,LXXII,2009
+Nuevo León,PRD,,,LXXII,2009
+Nuevo León,PRI,14,,LXXII,2009
+Nuevo León,PT,,,LXXII,2009
+Nuevo León,PAN,15,,LXXIII,2012
+Nuevo León,PNA,,,LXXIII,2012
+Nuevo León,PRD,,,LXXIII,2012
+Nuevo León,PRI,11,,LXXIII,2012
+Nuevo León,PT,,,LXXIII,2012
+Nuevo León,MC,,,LXXIV,2015
+Nuevo León,PAN,16,,LXXIV,2015
+Nuevo León,PNA,,,LXXIV,2015
+Nuevo León,PRI,10,,LXXIV,2015
+Nuevo León,PT,,,LXXIV,2015
+Nuevo León,PVEM,,,LXXIV,2015
+Nuevo León,PAN,12,,LXXV,2018
+Nuevo León,PRI,4,,LXXV,2018
+Nuevo León,Morena,7,,LXXV,2018
+Nuevo León,MC,2,,LXXV,2018
+Nuevo León,PT,1,,LXXV,2018
+Nuevo León,PVEM,,,LXXV,2018
+Nuevo León,PNA,,,LXXV,2018
+Nuevo León,indep,,,LXXV,2018
+Oaxaca,PRI,15,,XLIX,1974
+Oaxaca,PRI,15,,L,1977
+Oaxaca,PRI,18,,LI,1980
+Oaxaca,PAN,,,LI,1980
+Oaxaca,PPS,,,LI,1980
+Oaxaca,PARM,,,LI,1980
+Oaxaca,PRI,18,,LII,1983
+Oaxaca,PAN,,,LII,1983
+Oaxaca,PPS,,,LII,1983
+Oaxaca,PSUM,,,LII,1983
+Oaxaca,PRI,18,,LIII,1986
+Oaxaca,PAN,,,LIII,1986
+Oaxaca,PPS,,,LIII,1986
+Oaxaca,PFCRN,,,LIII,1986
+Oaxaca,PRD,,,LIII,1986
+Oaxaca,PRI,18,,LIV,1989
+Oaxaca,PAN,,,LIV,1989
+Oaxaca,PPS,,,LIV,1989
+Oaxaca,PARM,,,LIV,1989
+Oaxaca,PFCRN,,,LIV,1989
+Oaxaca,PRD,,,LIV,1989
+Oaxaca,PRI,21,,LV,1992
+Oaxaca,PAN,,,LV,1992
+Oaxaca,PPS,,,LV,1992
+Oaxaca,PARM,,,LV,1992
+Oaxaca,PFCRN,,,LV,1992
+Oaxaca,PRD,,,LV,1992
+Oaxaca,PRI,25,,LVI,1995
+Oaxaca,PAN,,,LVI,1995
+Oaxaca,PFCRN,,,LVI,1995
+Oaxaca,PRD,,,LVI,1995
+Oaxaca,PT,,,LVI,1995
+Oaxaca,Local,,,LVI,1995
+Oaxaca,PRI,23,,LVII,1998
+Oaxaca,PAN,,,LVII,1998
+Oaxaca,PRD,2,,LVII,1998
+Oaxaca,PAN,,,LVIII,2001
+Oaxaca,PCPD,,,LVIII,2001
+Oaxaca,PRD,1,,LVIII,2001
+Oaxaca,PRI,24,,LVIII,2001
+Oaxaca,PT,,,LVIII,2001
+Oaxaca,PAN,3,,LIX,2004
+Oaxaca,PC,,,LIX,2004
+Oaxaca,PRD,4,,LIX,2004
+Oaxaca,PRI,18,,LIX,2004
+Oaxaca,PT,,,LIX,2004
+Oaxaca,PVEM,,,LIX,2004
+Oaxaca,UP,,,LIX,2004
+Oaxaca,Convergencia,,,LX,2007
+Oaxaca,PAN,,,LX,2007
+Oaxaca,PASD,,,LX,2007
+Oaxaca,PNA,,,LX,2007
+Oaxaca,PRD,,,LX,2007
+Oaxaca,PRI,25,,LX,2007
+Oaxaca,PT,,,LX,2007
+Oaxaca,UP,,,LX,2007
+Oaxaca,Convergencia,2,,LXI,2010
+Oaxaca,PAN,8,,LXI,2010
+Oaxaca,PRD,5,,LXI,2010
+Oaxaca,PRI,9,,LXI,2010
+Oaxaca,PT,1,,LXI,2010
+Oaxaca,UP,,,LXI,2010
+Oaxaca,NDF,,,LXII,2013
+Oaxaca,PAN,7,,LXII,2013
+Oaxaca,PNA,,,LXII,2013
+Oaxaca,PRD,6,,LXII,2013
+Oaxaca,PRI,11,,LXII,2013
+Oaxaca,PSD,,,LXII,2013
+Oaxaca,PT,,,LXII,2013
+Oaxaca,PVEM,1,,LXII,2013
+Oaxaca,UP,,,LXII,2013
+Oaxaca,Morena,5,,LXIII,2016
+Oaxaca,PAN,2,,LXIII,2016
+Oaxaca,PES,1,,LXIII,2016
+Oaxaca,PRD,3,,LXIII,2016
+Oaxaca,PRI,13,,LXIII,2016
+Oaxaca,PT,,,LXIII,2016
+Oaxaca,PUP,,,LXIII,2016
+Oaxaca,PVEM,1,,LXIII,2016
+Oaxaca,MI,1,,LXIV,2019
+Oaxaca,Morena,18,,LXIV,2019
+Oaxaca,PAN,,,LXIV,2019
+Oaxaca,PES,2,,LXIV,2019
+Oaxaca,PRI,1,,LXIV,2019
+Oaxaca,PT,3,,LXIV,2019
+Oaxaca,PVEM,,,LXIV,2019
+Puebla,PRI,16,,XLV,1972
+Puebla,PRI,18,,XLVI,1975
+Puebla,PRI,20,,XLVII,1978
+Puebla,PAN,,,XLVII,1978
+Puebla,PPS,,,XLVII,1978
+Puebla,PARM,,,XLVII,1978
+Puebla,PRI,20,,XLVIII,1981
+Puebla,PAN,,,XLVIII,1981
+Puebla,PST,,,XLVIII,1981
+Puebla,PPS,,,XLVIII,1981
+Puebla,PARM,,,XLVIII,1981
+Puebla,PCM,,,XLVIII,1981
+Puebla,PRI,22,,XLIX,1984
+Puebla,PAN,,,XLIX,1984
+Puebla,PST,,,XLIX,1984
+Puebla,PDM,,,XLIX,1984
+Puebla,PPS,,,XLIX,1984
+Puebla,PSUM,,,XLIX,1984
+Puebla,PRI,22,,L,1987
+Puebla,PAN,,,L,1987
+Puebla,PPS,,,L,1987
+Puebla,Coalición,,,L,1987
+Puebla,PRI,22,,LI,1990
+Puebla,PAN,,,LI,1990
+Puebla,PPS,,,LI,1990
+Puebla,PARM,,,LI,1990
+Puebla,PFCRN,,,LI,1990
+Puebla,PRD,,,LI,1990
+Puebla,PRI,22,,LII,1993
+Puebla,PAN,,,LII,1993
+Puebla,PPS,,,LII,1993
+Puebla,PFCRN,,,LII,1993
+Puebla,PRD,,,LII,1993
+Puebla,PRI,16,,LIII,1996
+Puebla,PAN,10,,LIII,1996
+Puebla,PRD,,,LIII,1996
+Puebla,PT,,,LIII,1996
+Puebla,PRI,25,,LIV,1999
+Puebla,PAN,1,,LIV,1999
+Puebla,PRD,,,LIV,1999
+Puebla,PT,,,LIV,1999
+Puebla,PVEM,,,LIV,1999
+Puebla,PAN,6,,LV,2002
+Puebla,PCD,,,LV,2002
+Puebla,PRD,,,LV,2002
+Puebla,PRI,20,,LV,2002
+Puebla,PT,,,LV,2002
+Puebla,PVEM,,,LV,2002
+Puebla,Convergencia,,,LVI,2005
+Puebla,PAN,3,,LVI,2005
+Puebla,PRD,,,LVI,2005
+Puebla,PRI,23,,LVI,2005
+Puebla,PT,,,LVI,2005
+Puebla,PVEM,,,LVI,2005
+Puebla,Convergencia,,,LVII,2008
+Puebla,PAN,1,,LVII,2008
+Puebla,PNA,,,LVII,2008
+Puebla,PRD,,,LVII,2008
+Puebla,PRI,25,,LVII,2008
+Puebla,PT,,,LVII,2008
+Puebla,Convergencia,,,LVIII,2011
+Puebla,PAN,14,,LVIII,2011
+Puebla,PRI,11,,LVIII,2011
+Puebla,PT,,,LVIII,2011
+Puebla,PVEM,1,,LVIII,2011
+Puebla,Comp. con Puebla,4,,LIX,2014
+Puebla,PAN,13,,LIX,2014
+Puebla,PNA,3,,LIX,2014
+Puebla,PRD,2,,LIX,2014
+Puebla,PRI,1,,LIX,2014
+Puebla,indep,2,,LIX,2014
+Puebla,PT,,,LIX,2014
+Puebla,PVEM,1,,LIX,2014
+Puebla,MC,,,LIX,2014
+Puebla,Morena,10,,LX,2018
+Puebla,PAN,4,,LX,2018
+Puebla,PT,3,,LX,2018
+Puebla,PRI,1,,LX,2018
+Puebla,PES,3,,LX,2018
+Puebla,PRD,2,,LX,2018
+Puebla,MC,1,,LX,2018
+Puebla,PNA,1,,LX,2018
+Puebla,PVEM,,,LX,2018
+Puebla,CPP,1,,LX,2018
+Querétaro,PRI,9,,XLIV,1973
+Querétaro,PRI,9,,XLV,1976
+Querétaro,PRI,12,,XLVI,1979
+Querétaro,PRI,12,,XLVII,1982
+Querétaro,PAN,,,XLVII,1982
+Querétaro,PRI,12,,XLVIII,1985
+Querétaro,PAN,,,XLVIII,1985
+Querétaro,PDM,,,XLVIII,1985
+Querétaro,PRI,12,,XLIX,1988
+Querétaro,PAN,,,XLIX,1988
+Querétaro,PDM,,,XLIX,1988
+Querétaro,PPS,,,XLIX,1988
+Querétaro,PFCRN,,,XLIX,1988
+Querétaro,PRI,14,,L,1991
+Querétaro,PAN,,,L,1991
+Querétaro,PPS,,,L,1991
+Querétaro,PFCRN,,,L,1991
+Querétaro,PRD,,,L,1991
+Querétaro,PRI,15,,LI,1994
+Querétaro,PAN,,,LI,1994
+Querétaro,PRD,,,LI,1994
+Querétaro,PT,,,LI,1994
+Querétaro,PRI,7,,LII,1997
+Querétaro,PAN,8,,LII,1997
+Querétaro,PFCRN,,,LII,1997
+Querétaro,PRD,,,LII,1997
+Querétaro,PT,,,LII,1997
+Querétaro,PVEM,,,LII,1997
+Quinatan Roo,PRI,7,,CONSTITUYENTE,1974
+Quinatan Roo,PRI,7,,I,1975
+Quinatan Roo,PRI,8,,II,1978
+Quinatan Roo,PPS,,,II,1978
+Quinatan Roo,PARM,,,II,1978
+Quinatan Roo,PRI,9,,III,1981
+Quinatan Roo,PPS,,,III,1981
+Quinatan Roo,PARM,,,III,1981
+Quinatan Roo,PRI,11,,IV,1984
+Quinatan Roo,PAN,,,IV,1984
+Quinatan Roo,PST,,,IV,1984
+Quinatan Roo,PPS,,,IV,1984
+Quinatan Roo,PSUM,,,IV,1984
+Quinatan Roo,PRI,11,,V,1987
+Quinatan Roo,PAN,,,V,1987
+Quinatan Roo,PPS,,,V,1987
+Quinatan Roo,PSUM,,,V,1987
+Quinatan Roo,PFCRN,,,V,1987
+Quinatan Roo,PRI,13,,VI,1990
+Quinatan Roo,PAN,,,VI,1990
+Quinatan Roo,PFCRN,,,VI,1990
+Quinatan Roo,PRD,,,VI,1990
+Quinatan Roo,PRI,13,,VII,1993
+Quinatan Roo,PAN,,,VII,1993
+Quinatan Roo,PPS,,,VII,1993
+Quinatan Roo,PARM,,,VII,1993
+Quinatan Roo,PRD,,,VII,1993
+Quinatan Roo,PRI,14,,VIII,1996
+Quinatan Roo,PAN,1,,VIII,1996
+Quinatan Roo,PRD,,,VIII,1996
+Quinatan Roo,PRI,11,,IX,1999
+Quinatan Roo,PAN,,,IX,1999
+Quinatan Roo,PRD,4,,IX,1999
+Quinatan Roo,PT,,,IX,1999
+Quintana Roo,PAN,,,X,2002
+Quintana Roo,PCD,,,X,2002
+Quintana Roo,PRD,,,X,2002
+Quintana Roo,PRI,15,,X,2002
+Quintana Roo,PVEM,,,X,2002
+Quintana Roo,PAN,3,,XI,2005
+Quintana Roo,PCD,1,,XI,2005
+Quintana Roo,PRD,5,,XI,2005
+Quintana Roo,PRI,6,,XI,2005
+Quintana Roo,PT,,,XI,2005
+Quintana Roo,PVEM,,,XI,2005
+Quintana Roo,CONV,,,XII,2008
+Quintana Roo,PAN,1,,XII,2008
+Quintana Roo,PNA,,,XII,2008
+Quintana Roo,PRD,,,XII,2008
+Quintana Roo,PRI,13,,XII,2008
+Quintana Roo,PT,,,XII,2008
+Quintana Roo,PVEM,1,,XII,2008
+Quintana Roo,CONV,,,XIII,2011
+Quintana Roo,PAN,1,,XIII,2011
+Quintana Roo,PANAL,2,,XIII,2011
+Quintana Roo,PRD,2,,XIII,2011
+Quintana Roo,PRI,9,,XIII,2011
+Quintana Roo,PT,,,XIII,2011
+Quintana Roo,PVEM,1,,XIII,2011
+Quintana Roo,INDEPENDIENTE,,,XIV,2013
+Quintana Roo,MC,,,XIV,2013
+Quintana Roo,PAN,2,,XIV,2013
+Quintana Roo,PANAL,,,XIV,2013
+Quintana Roo,PRD,,,XIV,2013
+Quintana Roo,PRI,24,,XIV,2013
+Quintana Roo,PT,,,XIV,2013
+Quintana Roo,PVEM,3,,XIV,2013
+Quintana Roo,PAN,3,,XV,2016
+Quintana Roo,PRI,4,,XV,2016
+Quintana Roo,PVEM,5,,XV,2016
+Quintana Roo,PRD,2,,XV,2016
+Quintana Roo,IND,,,XV,2016
+Quintana Roo,Morena,,,XV,2016
+Quintana Roo,PES,,,XV,2016
+Quintana Roo,MAS,,,XVI,2019
+Quintana Roo,MC,,,XVI,2019
+Quintana Roo,MORENA,6,,XVI,2019
+Quintana Roo,PAN,2,,XVI,2019
+Quintana Roo,PRD,1,,XVI,2019
+Quintana Roo,PRI,1,,XVI,2019
+Quintana Roo,PT,3,,XVI,2019
+Quintana Roo,PVEM,2,,XVI,2019
+San Luis Potosí,PRI,11,,XLVII,1972
+San Luis Potosí,PRI,11,,XLVIII,1975
+San Luis Potosí,PRI,11,,XLIX,1978
+San Luis Potosí,PRI,11,,L,1981
+San Luis Potosí,PAN,,,L,1981
+San Luis Potosí,PDM,,,L,1981
+San Luis Potosí,PPS,,,L,1981
+San Luis Potosí,PARM,,,L,1981
+San Luis Potosí,PSUM,,,L,1981
+San Luis Potosí,PRI,11,,LI,1984
+San Luis Potosí,PAN,,,LI,1984
+San Luis Potosí,PDM,,,LI,1984
+San Luis Potosí,PPS,,,LI,1984
+San Luis Potosí,PSUM,,,LI,1984
+San Luis Potosí,PRI,11,,LII,1987
+San Luis Potosí,PAN,,,LII,1987
+San Luis Potosí,PRI,11,,LIII,1990
+San Luis Potosí,PAN,,,LIII,1990
+San Luis Potosí,PARM,,,LIII,1990
+San Luis Potosí,PFCRN,,,LIII,1990
+San Luis Potosí,PRI,13,,LIV,1993
+San Luis Potosí,PAN,,,LIV,1993
+San Luis Potosí,PRD,,,LIV,1993
+San Luis Potosí,Local,,,LIV,1993
+San Luis Potosí,PRI,9,,LV,1997
+San Luis Potosí,PAN,6,,LV,1997
+San Luis Potosí,PRD,,,LV,1997
+San Luis Potosí,PT,,,LV,1997
+San Luis Potosí,PAN,6,,LVI,2000
+San Luis Potosí,PRD,,,LVI,2000
+San Luis Potosí,PRI,9,,LVI,2000
+San Luis Potosí,PAN,6,,LVII,2003
+San Luis Potosí,PCP,,,LVII,2003
+San Luis Potosí,PRD,,,LVII,2003
+San Luis Potosí,PRI,9,,LVII,2003
+San Luis Potosí,PVEM,,,LVII,2003
+San Luis Potosí,PAN,13,,LVIII,2006
+San Luis Potosí,PRD,,,LVIII,2006
+San Luis Potosí,PRI,1,,LVIII,2006
+San Luis Potosí,PT,1,,LVIII,2006
+San Luis Potosí,PVEM,,,LVIII,2006
+San Luis Potosí,,,,LVIII,2006
+San Luis Potosí,PAN,7,,LIX,2009
+San Luis Potosí,PANAL,2,,LIX,2009
+San Luis Potosí,PCOP,,,LIX,2009
+San Luis Potosí,PRD,,,LIX,2009
+San Luis Potosí,PRI,6,,LIX,2009
+San Luis Potosí,PT,,,LIX,2009
+San Luis Potosí,PVEM,,,LIX,2009
+San Luis Potosí,CP,,,LX,2012
+San Luis Potosí,MC,,,LX,2012
+San Luis Potosí,PAN,4,,LX,2012
+San Luis Potosí,PANAL,,,LX,2012
+San Luis Potosí,PRD,1,,LX,2012
+San Luis Potosí,PRI,7,,LX,2012
+San Luis Potosí,PT,,,LX,2012
+San Luis Potosí,PVEM,3,,LX,2012
+San Luis Potosí,Conciencia Popular,,,LXI,2015
+San Luis Potosí,MC,,,LXI,2015
+San Luis Potosí,MORENA,,,LXI,2015
+San Luis Potosí,PAN,4,,LXI,2015
+San Luis Potosí,PNA,1,,LXI,2015
+San Luis Potosí,PRD,3,,LXI,2015
+San Luis Potosí,PRI,6,,LXI,2015
+San Luis Potosí,PT,,,LXI,2015
+San Luis Potosí,PVEM,1,,LXI,2015
+San Luis Potosí,CP,,,LXII,2018
+San Luis Potosí,IND,,,LXII,2018
+San Luis Potosí,MC,,,LXII,2018
+San Luis Potosí,Morena,4,,LXII,2018
+San Luis Potosí,PAN,4,,LXII,2018
+San Luis Potosí,PES,1,,LXII,2018
+San Luis Potosí,PNA,,,LXII,2018
+San Luis Potosí,PRD,,,LXII,2018
+San Luis Potosí,PRI,3,,LXII,2018
+San Luis Potosí,PT,2,,LXII,2018
+Sinaloa,PRI,19,,XLVIII,1974
+Sinaloa,PRI,19,,XLIX,1977
+Sinaloa,PRI,23,,L,1980
+Sinaloa,PAN,,,L,1980
+Sinaloa,PSUM,,,L,1980
+Sinaloa,Local,,,L,1980
+Sinaloa,PRI,22,,LI,1983
+Sinaloa,PAN,1,,LI,1983
+Sinaloa,PSUM,,,LI,1983
+Sinaloa,PRI,23,,LII,1986
+Sinaloa,PAN,,,LII,1986
+Sinaloa,Local,,,LII,1986
+Sinaloa,PRI,20,,LIII,1989
+Sinaloa,PAN,3,,LIII,1989
+Sinaloa,PRD,,,LIII,1989
+Sinaloa,PRI,23,,LIV,1992
+Sinaloa,PAN,,,LIV,1992
+Sinaloa,PRD,,,LIV,1992
+Sinaloa,PRI,16,,LV,1995
+Sinaloa,PAN,7,,LV,1995
+Sinaloa,PRD,1,,LV,1995
+Sinaloa,PT,,,LV,1995
+Sinaloa,PRI,21,,LVI,1998
+Sinaloa,PAN,3,,LVI,1998
+Sinaloa,PRD,,,LVI,1998
+Sinaloa,PAN,3,,LVII,2001
+Sinaloa,PBS,,,LVII,2001
+Sinaloa,PRD,,,LVII,2001
+Sinaloa,PRI,20,,LVII,2001
+Sinaloa,PT,1,,LVII,2001
+Sinaloa,PAN,5,,LVIII,2004
+Sinaloa,PRD,1,,LVIII,2004
+Sinaloa,PRI,18,,LVIII,2004
+Sinaloa,PT,,,LVIII,2004
+Sinaloa,PAN,6,,LIX,2007
+Sinaloa,PRD,,,LIX,2007
+Sinaloa,PRI,18,,LIX,2007
+Sinaloa,Convergencia,,,LX,2010
+Sinaloa,IND,,,LX,2010
+Sinaloa,PAN,9,,LX,2010
+Sinaloa,PNA,1,,LX,2010
+Sinaloa,PRD,,,LX,2010
+Sinaloa,PRI,14,,LX,2010
+Sinaloa,PT,,,LX,2010
+Sinaloa,PVEM,,,LX,2010
+Sinaloa,MC,,1,LXI,2013
+Sinaloa,PAN,4,6,LXI,2013
+Sinaloa,PAS,,3,LXI,2013
+Sinaloa,PNA,1,,LXI,2013
+Sinaloa,PRD,,2,LXI,2013
+Sinaloa,PRI,19,3,LXI,2013
+Sinaloa,PT,,1,LXI,2013
+Sinaloa,Morena,,2,LXII,2016
+Sinaloa,PAN,2,5,LXII,2016
+Sinaloa,PAS,,6,LXII,2016
+Sinaloa,PNA,1,1,LXII,2016
+Sinaloa,PRD,,1,LXII,2016
+Sinaloa,PRI,21,,LXII,2016
+Sinaloa,PVEM,,1,LXII,2016
+Sinaloa,INDEP,1,,LXIII,2018
+Sinaloa,Morena,16,8,LXIII,2018
+Sinaloa,PAN,,2,LXIII,2018
+Sinaloa,PAS,,1,LXIII,2018
+Sinaloa,PES,1,,LXIII,2018
+Sinaloa,PRD,1,,LXIII,2018
+Sinaloa,PRI,3,5,LXIII,2018
+Sinaloa,PT,2,,LXIII,2018
+Sonora,PRI,11,,XLVII,1973
+Sonora,PRI,11,,XLVIII,1976
+Sonora,PRI,13,,XLIX,1979
+Sonora,PAN,2,,XLIX,1979
+Sonora,PPS,,,XLIX,1979
+Sonora,PARM,,,XLIX,1979
+Sonora,PRI,17,,L,1982
+Sonora,PAN,,,L,1982
+Sonora,PST,,,L,1982
+Sonora,PDM,,,L,1982
+Sonora,PPS,,,L,1982
+Sonora,PSUM,,,L,1982
+Sonora,PRI,18,,LI,1985
+Sonora,PAN,,,LI,1985
+Sonora,PPS,,,LI,1985
+Sonora,PARM,,,LI,1985
+Sonora,PFCRN,,,LI,1985
+Sonora,PRT,,,LI,1985
+Sonora,PRI,18,,LII,1988
+Sonora,PAN,,,LII,1988
+Sonora,PPS,,,LII,1988
+Sonora,PARM,,,LII,1988
+Sonora,PFCRN,,,LII,1988
+Sonora,PRI,18,,LIII,1991
+Sonora,PAN,,,LIII,1991
+Sonora,PARM,,,LIII,1991
+Sonora,PFCRN,,,LIII,1991
+Sonora,PRD,,,LIII,1991
+Sonora,PT,,,LIII,1991
+Sonora,PRI,16,,LIV,1994
+Sonora,PAN,4,,LIV,1994
+Sonora,PRD,1,,LIV,1994
+Sonora,PT,,,LIV,1994
+Sonora,PRI,9,,LV,1997
+Sonora,PAN,6,,LV,1997
+Sonora,PRD,6,,LV,1997
+Sonora,PAN,8,,LVI,2000
+Sonora,PRD,2,,LVI,2000
+Sonora,PRI,11,,LVI,2000
+Sonora,PAN,6,,LVII,2003
+Sonora,PRD,,,LVII,2003
+Sonora,PRI,15,,LVII,2003
+Sonora,PAN,7,,LVIII,2006
+Sonora,PNA,1,,LVIII,2006
+Sonora,PRD,,,LVIII,2006
+Sonora,PRI,13,,LVIII,2006
+Sonora,PT,,,LVIII,2006
+Sonora,PAN,9,,LIX,2009
+Sonora,PNA,1,,LIX,2009
+Sonora,PRD,,,LIX,2009
+Sonora,PRI,10,,LIX,2009
+Sonora,PVEM,1,,LIX,2009
+Sonora,PAN,11,,LX,2012
+Sonora,PNA,,,LX,2012
+Sonora,PRD,,,LX,2012
+Sonora,PRI,8,,LX,2012
+Sonora,PVEM,1,,LX,2012
+Sonora,PRI,13,,LXI,2015
+Sonora,PAN,8,,LXI,2015
+Sonora,PRD,,,LXI,2015
+Sonora,MC,,,LXI,2015
+Sonora,PNA,,,LXI,2015
+Sonora,Morena,,,LXI,2015
+Sonora,MC,,,LXII,2018
+Sonora,Morena,11,,LXII,2018
+Sonora,PAN,,,LXII,2018
+Sonora,PES,5,,LXII,2018
+Sonora,PNA,1,,LXII,2018
+Sonora,PRI,,,LXII,2018
+Sonora,PT,4,,LXII,2018
+Sonora,PVEM,,,LXII,2018
+Tabasco,PRI,14,,XLVIII,1974
+Tabasco,PRI,17,,XLIX,1977
+Tabasco,PRI,17,,L,1980
+Tabasco,PPS,,,L,1980
+Tabasco,PRI,17,,LI,1983
+Tabasco,PPS,,,LI,1983
+Tabasco,PRI,17,,LII,1986
+Tabasco,PST,,,LII,1986
+Tabasco,PPS,,,LII,1986
+Tabasco,PRI,17,,LIII,1989
+Tabasco,PPS,,,LIII,1989
+Tabasco,PFCRN,,,LIII,1989
+Tabasco,PRI,17,,LIV,1992
+Tabasco,PAN,,,LIV,1992
+Tabasco,PFCRN,,,LIV,1992
+Tabasco,PRD,,,LIV,1992
+Tabasco,PRI,15,,LV,1995
+Tabasco,PAN,,,LV,1995
+Tabasco,PRD,2,,LV,1995
+Tabasco,PRI,18,,LVI,1998
+Tabasco,PAN,,,LVI,1998
+Tabasco,PRD,,,LVI,1998
+Tabasco,PAN,,,LVII,2001
+Tabasco,PRD,6,,LVII,2001
+Tabasco,PRI,12,,LVII,2001
+Tabasco,PT,,,LVII,2001
+Tabasco,PAN,1,,LVIII,2004
+Tabasco,PRD,11,,LVIII,2004
+Tabasco,PRI,9,,LVIII,2004
+Tabasco,PVEM,,,LVIII,2004
+Tabasco,PAN,,,LIX,2007
+Tabasco,PRD,9,,LIX,2007
+Tabasco,PRI,12,,LIX,2007
+Tabasco,PAN,2,,LX,2010
+Tabasco,PNA,1,,LX,2010
+Tabasco,PRD,6,,LX,2010
+Tabasco,PRI,12,,LX,2010
+Tabasco,PT,,,LX,2010
+Tabasco,PAN,,,LXI,2013
+Tabasco,PMC,,,LXI,2013
+Tabasco,PNA,,,LXI,2013
+Tabasco,PRD,17,,LXI,2013
+Tabasco,PRI,3,,LXI,2013
+Tabasco,PT,1,,LXI,2013
+Tabasco,PVEM,,,LXI,2013
+Tabasco,INDEP,1,,LXII,2016
+Tabasco,MC,,,LXII,2016
+Tabasco,Morena,1,,LXII,2016
+Tabasco,PAN,,,LXII,2016
+Tabasco,PRD,13,,LXII,2016
+Tabasco,PRI,3,,LXII,2016
+Tabasco,PT,,,LXII,2016
+Tabasco,PVEM,3,,LXII,2016
+Tabasco,Morena,21,,LXIII,2019
+Tabasco,PRD,,,LXIII,2019
+Tabasco,PRI,,,LXIII,2019
+Tabasco,PVEM,,,LXIII,2019
+Tamaulipas,PRI,10,,XLVIII,1972
+Tamaulipas,PPS,1,,XLVIII,1972
+Tamaulipas,PRI,10,,XLIX,1975
+Tamaulipas,PARM,1,,XLIX,1975
+Tamaulipas,PRI,14,,L,1978
+Tamaulipas,PRI,13,,LI,1981
+Tamaulipas,PST,,,LI,1981
+Tamaulipas,PARM,1,,LI,1981
+Tamaulipas,PRI,15,,LII,1984
+Tamaulipas,PAN,,,LII,1984
+Tamaulipas,PST,,,LII,1984
+Tamaulipas,PDM,,,LII,1984
+Tamaulipas,PSUM,,,LII,1984
+Tamaulipas,PRI,15,,LIII,1987
+Tamaulipas,PAN,,,LIII,1987
+Tamaulipas,PST,,,LIII,1987
+Tamaulipas,PARM,,,LIII,1987
+Tamaulipas,Coalición,,,LIII,1987
+Tamaulipas,PRI,18,,LIV,1990
+Tamaulipas,PAN,,,LIV,1990
+Tamaulipas,PARM,1,,LIV,1990
+Tamaulipas,PFCRN,,,LIV,1990
+Tamaulipas,PRD,,,LIV,1990
+Tamaulipas,PRI,18,,LV,1993
+Tamaulipas,PAN,1,,LV,1993
+Tamaulipas,PARM,,,LV,1993
+Tamaulipas,PFCRN,,,LV,1993
+Tamaulipas,PRD,,,LV,1993
+Tamaulipas,PRI,14,,LVI,1996
+Tamaulipas,PAN,4,,LVI,1996
+Tamaulipas,PARM,,,LVI,1996
+Tamaulipas,PFCRN,,,LVI,1996
+Tamaulipas,PRD,1,,LVI,1996
+Tamaulipas,PRI,17,,LVII,1999
+Tamaulipas,PAN,,,LVII,1999
+Tamaulipas,PRD,2,,LVII,1999
+Tamaulipas,PAN,2,,LVIII,2001
+Tamaulipas,PRD,,,LVIII,2001
+Tamaulipas,PRI,16,,LVIII,2001
+Tamaulipas,PT,1,,LVIII,2001
+Tamaulipas,PAN,1,,LIX,2005
+Tamaulipas,PRI,18,,LIX,2005
+Tamaulipas,PT,,,LIX,2005
+Tamaulipas,UT,,,LIX,2005
+Tamaulipas,PAN,,,LX,2008
+Tamaulipas,PNA,1,,LX,2008
+Tamaulipas,PRD,,,LX,2008
+Tamaulipas,PRI,17,,LX,2008
+Tamaulipas,PT,,,LX,2008
+Tamaulipas,PVEM,1,,LX,2008
+Tamaulipas,PAN,,,LXI,2010
+Tamaulipas,PANAL,2,,LXI,2010
+Tamaulipas,PRD,,,LXI,2010
+Tamaulipas,PRI,18,,LXI,2010
+Tamaulipas,PT,,,LXI,2010
+Tamaulipas,PVEM,2,,LXI,2010
+Tamaulipas,Indep,,,LXII,2013
+Tamaulipas,PAN,,,LXII,2013
+Tamaulipas,PANAL,2,,LXII,2013
+Tamaulipas,PRD,,,LXII,2013
+Tamaulipas,PRI,16,,LXII,2013
+Tamaulipas,PT,,,LXII,2013
+Tamaulipas,PVEM,2,,LXII,2013
+Tamaulipas,INDEP,1,,LXIII,2016
+Tamaulipas,PAN,5,,LXIII,2016
+Tamaulipas,PNA,2,,LXIII,2016
+Tamaulipas,PRD,,,LXIII,2016
+Tamaulipas,PRI,14,,LXIII,2016
+Tamaulipas,PT,,,LXIII,2016
+Tamaulipas,PVEM,,,LXIII,2016
+Tamaulipas,PAN,21,,LXIV,2019
+Tamaulipas,Morena,1,,LXIV,2019
+Tamaulipas,PRI,,,LXIV,2019
+Tamaulipas,MC,,,LXIV,2019
+Tlaxcala,PRI,7,,XLVII,1971
+Tlaxcala,PRI,9,,XLVIII,1974
+Tlaxcala,PAN,,1,XLVIII,1974
+Tlaxcala,PPS,,1,XLVIII,1974
+Tlaxcala,PRI,9,,XLIX,1977
+Tlaxcala,PAN,,1,XLIX,1977
+Tlaxcala,PRI,9,,L,1980
+Tlaxcala,PAN,,,L,1980
+Tlaxcala,PDM,,,L,1980
+Tlaxcala,PSUM,,,L,1980
+Tlaxcala,PRI,9,,LI,1983
+Tlaxcala,PAN,,,LI,1983
+Tlaxcala,PST,,,LI,1983
+Tlaxcala,PDM,,,LI,1983
+Tlaxcala,PPS,,,LI,1983
+Tlaxcala,PRI,9,,LII,1986
+Tlaxcala,PAN,,,LII,1986
+Tlaxcala,PDM,,,LII,1986
+Tlaxcala,PSUM,,,LII,1986
+Tlaxcala,PRI,9,,LIII,1989
+Tlaxcala,PAN,,,LIII,1989
+Tlaxcala,PFCRN,,,LIII,1989
+Tlaxcala,PRD,,,LIII,1989
+Tlaxcala,PRI,9,,LIV,1992
+Tlaxcala,PAN,,,LIV,1992
+Tlaxcala,PRD,,,LIV,1992
+Tlaxcala,PRI,19,,LV,1995
+Tlaxcala,PAN,,,LV,1995
+Tlaxcala,PDM,,,LV,1995
+Tlaxcala,PRD,,,LV,1995
+Tlaxcala,PT,,,LV,1995
+Tlaxcala,PVEM,,,LV,1995
+Tlaxcala,PRI,16,,LVI,1998
+Tlaxcala,PAN,,,LVI,1998
+Tlaxcala,PRD,2,,LVI,1998
+Tlaxcala,PT,1,,LVI,1998
+Tlaxcala,PVEM,,,LVI,1998
+Tlaxcala,CDPPN,,,LVII,2002
+Tlaxcala,PAN,,,LVII,2002
+Tlaxcala,PRD,6,,LVII,2002
+Tlaxcala,PRI,13,,LVII,2002
+Tlaxcala,PT,,,LVII,2002
+Tlaxcala,PVEM,,,LVII,2002
+Tlaxcala,PAN,3,,LVIII,2005
+Tlaxcala,PC,,,LVIII,2005
+Tlaxcala,PCDT,,,LVIII,2005
+Tlaxcala,PRD,8,,LVIII,2005
+Tlaxcala,PRI,8,,LVIII,2005
+Tlaxcala,PT,,,LVIII,2005
+Tlaxcala,PVEM,,,LVIII,2005
+Tlaxcala,Convergencia,,,LIX,2008
+Tlaxcala,IND,,,LIX,2008
+Tlaxcala,PAN,14,,LIX,2008
+Tlaxcala,PNA,,,LIX,2008
+Tlaxcala,PRD,5,,LIX,2008
+Tlaxcala,PRI,,,LIX,2008
+Tlaxcala,PS,,,LIX,2008
+Tlaxcala,PT,,,LIX,2008
+Tlaxcala,PVEM,,,LIX,2008
+Tlaxcala,Convergencia,1,,LX,2011
+Tlaxcala,IND,,,LX,2011
+Tlaxcala,PAC,,,LX,2011
+Tlaxcala,PAN,7,,LX,2011
+Tlaxcala,PNA,,,LX,2011
+Tlaxcala,PRD,1,,LX,2011
+Tlaxcala,PRI,9,,LX,2011
+Tlaxcala,PS,,,LX,2011
+Tlaxcala,PT,,,LX,2011
+Tlaxcala,PVEM,1,,LX,2011
+Tlaxcala,PAN,4,,LXI,2013
+Tlaxcala,PRI,9,,LXI,2013
+Tlaxcala,PRD,2,,LXI,2013
+Tlaxcala,PT,,,LXI,2013
+Tlaxcala,PVEM,2,,LXI,2013
+Tlaxcala,PNA,1,,LXI,2013
+Tlaxcala,MC,1,,LXI,2013
+Tlaxcala,PS,,,LXI,2013
+Tlaxcala,PAC,,,LXI,2013
+Tlaxcala,PRI,6,,LXII,2016
+Tlaxcala,PAN,2,2,LXII,2016
+Tlaxcala,PRD,3,2,LXII,2016
+Tlaxcala,PNA,1,1,LXII,2016
+Tlaxcala,PVEM,1,1,LXII,2016
+Tlaxcala,PS,1,1,LXII,2016
+Tlaxcala,PT,1,1,LXII,2016
+Tlaxcala,PAC,,1,LXII,2016
+Tlaxcala,Morena,,1,LXII,2016
+Tlaxcala,MC,,,LXIII,2019
+Tlaxcala,Morena,10,,LXIII,2019
+Tlaxcala,PAN,,,LXIII,2019
+Tlaxcala,PES,2,,LXIII,2019
+Tlaxcala,PNA,,,LXIII,2019
+Tlaxcala,PRI,,,LXIII,2019
+Tlaxcala,PT,1,,LXIII,2019
+Tlaxcala,PVEM,,,LXIII,2019
+Veracruz,PRI,16,,XLIX,1972
+Veracruz,PRI,16,,L,1975
+Veracruz,PRI,16,,LI,1977
+Veracruz,PAN,,1,LI,1977
+Veracruz,PPS,,1,LI,1977
+Veracruz,PARM,,1,LI,1977
+Veracruz,PRI,16,,LII,1980
+Veracruz,PAN,,,LII,1980
+Veracruz,PDM,,,LII,1980
+Veracruz,PPS,,,LII,1980
+Veracruz,PARM,,,LII,1980
+Veracruz,PSUM,,,LII,1980
+Veracruz,PRI,16,,LIII,1983
+Veracruz,PAN,,,LIII,1983
+Veracruz,PDM,,,LIII,1983
+Veracruz,PPS,,,LIII,1983
+Veracruz,PARM,,,LIII,1983
+Veracruz,PSUM,,,LIII,1983
+Veracruz,PRI,16,,LIV,1986
+Veracruz,PAN,,,LIV,1986
+Veracruz,PST,,,LIV,1986
+Veracruz,PPS,,,LIV,1986
+Veracruz,PARM,,,LIV,1986
+Veracruz,PMS,,,LIV,1986
+Veracruz,PRI,24,,LV,1989
+Veracruz,PAN,,,LV,1989
+Veracruz,PPS,,,LV,1989
+Veracruz,PARM,,,LV,1989
+Veracruz,PFCRN,,,LV,1989
+Veracruz,PRD,,,LV,1989
+Veracruz,PRI,24,,LVI,1992
+Veracruz,PAN,,,LVI,1992
+Veracruz,PPS,,,LVI,1992
+Veracruz,PFCRN,,,LVI,1992
+Veracruz,PRD,,,LVI,1992
+Veracruz,PRI,23,,LVII,1995
+Veracruz,PAN,1,,LVII,1995
+Veracruz,PRD,,,LVII,1995
+Veracruz,PT,,,LVII,1995
+Veracruz,PRI,21,,LVIII,1998
+Veracruz,PAN,2,,LVIII,1998
+Veracruz,PRD,1,,LVIII,1998
+Veracruz,PT,,,LVIII,1998
+Veracruz,PVEM,,,LVIII,1998
+Veracruz,CDP,,,LIX,2000
+Veracruz,PAN,4,,LIX,2000
+Veracruz,PRD,,,LIX,2000
+Veracruz,PRI,20,,LIX,2000
+Veracruz,PT,,,LIX,2000
+Veracruz,PVEM,,,LIX,2000
+Veracruz,Convergencia,1,,LX,2004
+Veracruz,PAN,14,,LX,2004
+Veracruz,PRD,2,,LX,2004
+Veracruz,PRI,13,,LX,2004
+Veracruz,Convergencia,,,LXI,2007
+Veracruz,IND,1,,LXI,2007
+Veracruz,PAN,1,,LXI,2007
+Veracruz,PRD,,,LXI,2007
+Veracruz,PRI,28,,LXI,2007
+Veracruz,PRV,,,LXI,2007
+Veracruz,PT,,,LXI,2007
+Veracruz,PAN,7,,LXII,2010
+Veracruz,PNA,3,,LXII,2010
+Veracruz,PRDConvergencia,,,LXII,2010
+Veracruz,PRI,20,,LXII,2010
+Veracruz,AVE,,,LXIII,2013
+Veracruz,PAN,4,,LXIII,2013
+Veracruz,PNA,3,,LXIII,2013
+Veracruz,PRD,,,LXIII,2013
+Veracruz,PRI,19,,LXIII,2013
+Veracruz,PT,,,LXIII,2013
+Veracruz,PVEM,4,,LXIII,2013
+Veracruz,JPV,4,,LXIV,2016
+Veracruz,Morena,5,,LXIV,2016
+Veracruz,PAN,15,,LXIV,2016
+Veracruz,PNA,1,,LXIV,2016
+Veracruz,PRD,3,,LXIV,2016
+Veracruz,PRI,3,,LXIV,2016
+Veracruz,MC,2,,LXV,2018
+Veracruz,Morena,19,,LXV,2018
+Veracruz,PAN,7,,LXV,2018
+Veracruz,PES,1,,LXV,2018
+Veracruz,PRD,1,,LXV,2018
+Veracruz,PRI,,,LXV,2018
+Veracruz,PVEM,,,LXV,2018
+Yucatán,PRI,13,,XLVI,1974
+Yucatán,PRI,13,,XLVII,1976
+Yucatán,PPS,,1,XLVII,1976
+Yucatán,PRI,13,,XLVIII,1979
+Yucatán,PPS,,1,XLVIII,1979
+Yucatán,PARM,,2,XLVIII,1979
+Yucatán,PRI,13,,XLIX,1982
+Yucatán,PAN,,2,XLIX,1982
+Yucatán,PRI,15,,L,1985
+Yucatán,PAN,,1,L,1985
+Yucatán,PST,,1,L,1985
+Yucatán,PPS,,1,L,1985
+Yucatán,PSUM,,1,L,1985
+Yucatán,PRI,15,,LI,1988
+Yucatán,PAN,,1,LI,1988
+Yucatán,PST,,1,LI,1988
+Yucatán,PPS,,1,LI,1988
+Yucatán,PARM,,1,LI,1988
+Yucatán,PMS,,1,LI,1988
+Yucatán,PRI,15,3,LII,1991
+Yucatán,PAN,,3,LII,1991
+Yucatán,PPS,,2,LII,1991
+Yucatán,PARM,,1,LII,1991
+Yucatán,PFCRN,,1,LII,1991
+Yucatán,PRI,14,4,LIII,1994
+Yucatán,PAN,1,6,LIII,1994
+Yucatán,PRI,8,5,LIV,1995
+Yucatán,PAN,7,5,LIV,1995
+Yucatán,PRI,10,5,LV,1998
+Yucatán,PAN,5,3,LV,1998
+Yucatán,PRD,,2,LV,1998
+Yucatán,PAN,7,5,LVI,2001
+Yucatán,PRD,,1,LVI,2001
+Yucatán,PRI,8,4,LVI,2001
+Yucatán,PAN,9,4,LVII,2004
+Yucatán,PRD,,2,LVII,2004
+Yucatán,PRI,6,4,LVII,2004
+Yucatán,PAN,5,4,LVIII,2007
+Yucatán,PNA,,1,LVIII,2007
+Yucatán,PRD,,1,LVIII,2007
+Yucatán,PRI,10,3,LVIII,2007
+Yucatán,PTSY,,1,LVIII,2007
+Yucatán,PAN,1,4,LIX,2010
+Yucatán,PRD,,2,LIX,2010
+Yucatán,PRI,14,2,LIX,2010
+Yucatán,PVEM,,2,LIX,2010
+Yucatán,PAN,3,4,LX,2012
+Yucatán,PRD,,2,LX,2012
+Yucatán,PRI,12,3,LX,2012
+Yucatán,PVEM,,1,LX,2012
+Yucatán,Morena,,1,LXI,2015
+Yucatán,PAN,2,6,LXI,2015
+Yucatán,PNA,,1,LXI,2015
+Yucatán,PRD,,1,LXI,2015
+Yucatán,PRI,13,,LXI,2015
+Yucatán,PVEM,,1,LXI,2015
+Yucatán,MC,1,1,LXII,2018
+Yucatán,Morena,1,3,LXII,2018
+Yucatán,PAN,3,3,LXII,2018
+Yucatán,PNA,,1,LXII,2018
+Yucatán,PRD,,1,LXII,2018
+Yucatán,PRI,10,,LXII,2018
+Yucatán,PVEM,,1,LXII,2018
+Zacatecas,PRI,13,,XLVIII,1974
+Zacatecas,PRI,13,,XLIX,1977
+Zacatecas,PRI,13,4,L,1980
+Zacatecas,PRI,13,1,LI,1983
+Zacatecas,PAN,,2,LI,1983
+Zacatecas,PSUM,,1,LI,1983
+Zacatecas,PRI,13,,LII,1986
+Zacatecas,PAN,,2,LII,1986
+Zacatecas,PSUM,,2,LII,1986
+Zacatecas,PRI,15,,LIII,1989
+Zacatecas,PAN,,2,LIII,1989
+Zacatecas,PFCRN,,2,LIII,1989
+Zacatecas,Local,,2,LIII,1989
+Zacatecas,PRI,15,,LIV,1992
+Zacatecas,PAN,,3,LIV,1992
+Zacatecas,PRD,,2,LIV,1992
+Zacatecas,Local,,1,LIV,1992
+Zacatecas,PRI,18,2,LV,1995
+Zacatecas,PAN,,6,LV,1995
+Zacatecas,PRD,,2,LV,1995
+Zacatecas,PT,,2,LV,1995
+Zacatecas,PRI,11,1,LVI,1998
+Zacatecas,PAN,1,5,LVI,1998
+Zacatecas,PRD,6,4,LVI,1998
+Zacatecas,PT,,2,LVI,1998
+Zacatecas,CD,,1,LVII,2001
+Zacatecas,PAN,1,3,LVII,2001
+Zacatecas,PRD,10,3,LVII,2001
+Zacatecas,PRI,7,3,LVII,2001
+Zacatecas,PT,,2,LVII,2001
+Zacatecas,CPPN,,1,LVIII,2004
+Zacatecas,PAN,1,3,LVIII,2004
+Zacatecas,PNA,5,5,LVIII,2004
+Zacatecas,PRD,12,3,LVIII,2004
+Zacatecas,Convergencia,1,1,LIX,2007
+Zacatecas,PAN,3,3,LIX,2007
+Zacatecas,PRD,8,2,LIX,2007
+Zacatecas,PRI,4,3,LIX,2007
+Zacatecas,PT,2,2,LIX,2007
+Zacatecas,PVEM,,1,LIX,2007
+Zacatecas,Convergencia,,2,LX,2010
+Zacatecas,PAN,2,4,LX,2010
+Zacatecas,PNA,2,,LX,2010
+Zacatecas,PRD,1,4,LX,2010
+Zacatecas,PRI,11,,LX,2010
+Zacatecas,PT,2,2,LX,2010
+Zacatecas,MC,,2,LXI,2013
+Zacatecas,PAN,1,2,LXI,2013
+Zacatecas,PNA,1,1,LXI,2013
+Zacatecas,PRD,4,2,LXI,2013
+Zacatecas,PRI,11,1,LXI,2013
+Zacatecas,PT,1,2,LXI,2013
+Zacatecas,PVEM,,2,LXI,2013
+Zacatecas,Morena,1,5,LXII,2016
+Zacatecas,PAN,1,2,LXII,2016
+Zacatecas,PES,,1,LXII,2016
+Zacatecas,PNA,3,,LXII,2016
+Zacatecas,PRD,1,1,LXII,2016
+Zacatecas,PRI,11,1,LXII,2016
+Zacatecas,PT,,2,LXII,2016
+Zacatecas,PVEM,1,,LXII,2016
+Zacatecas,Morena,5,4,LXIII,2018
+Zacatecas,PAN,2,2,LXIII,2018
+Zacatecas,PES,2,,LXIII,2018
+Zacatecas,PNA,1,1,LXIII,2018
+Zacatecas,PRD,2,1,LXIII,2018
+Zacatecas,PRI,4,2,LXIII,2018
+Zacatecas,PT,1,1,LXIII,2018
+Zacatecas,PVEM,1,1,LXIII,2018

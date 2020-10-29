@@ -1,0 +1,507 @@
+"Estado","year","Legislatura","legis"
+"Aguascalientes",1974,"XLIX",8
+"Aguascalientes",1977,"L",13
+"Aguascalientes",1980,"LI",16
+"Aguascalientes",1983,"LII",16
+"Aguascalientes",1986,"LIII",16
+"Aguascalientes",1989,"LIV",16
+"Aguascalientes",1992,"LV",25
+"Aguascalientes",1995,"LVI",27
+"Aguascalientes",1998,"LVII",27
+"Aguascalientes",2001,"LVIII",27
+"Aguascalientes",2004,"LIX",27
+"Aguascalientes",2007,"LX",27
+"Aguascalientes",2010,"LXI",27
+"Aguascalientes",2013,"LXII",27
+"Aguascalientes",2016,"LXIII",27
+"Aguascalientes",2018,"LXIV",27
+"Baja California",1974,"VIII",11
+"Baja California",1977,"IX",11
+"Baja California",1980,"X",14
+"Baja California",1983,"XI",16
+"Baja California",1986,"XII",19
+"Baja California",1989,"XIII",19
+"Baja California",1992,"XIV",19
+"Baja California",1995,"XV",25
+"Baja California",1998,"XVI",25
+"Baja California",2001,"XVII",25
+"Baja California",2004,"XVIII",25
+"Baja California",2007,"XIX",25
+"Baja California",2010,"XX",25
+"Baja California",2013,"XXI",25
+"Baja California",2016,"XXII",25
+"Baja California",2019,"XXIII",25
+"Baja California Sur",1975,"I",8
+"Baja California Sur",1978,"II",8
+"Baja California Sur",1981,"III",10
+"Baja California Sur",1984,"IV",13
+"Baja California Sur",1987,"V",15
+"Baja California Sur",1990,"VI",18
+"Baja California Sur",1993,"VII",15
+"Baja California Sur",1996,"VIII",20
+"Baja California Sur",1999,"IX",21
+"Baja California Sur",2002,"X",21
+"Baja California Sur",2005,"XI",21
+"Baja California Sur",2008,"XII",21
+"Baja California Sur",2011,"XIII",21
+"Baja California Sur",2015,"XIV",21
+"Baja California Sur",2018,"XV",21
+"Campeche",1974,"XLVIII",13
+"Campeche",1977,"XLIX",13
+"Campeche",1980,"L",13
+"Campeche",1983,"LI",23
+"Campeche",1986,"LII",24
+"Campeche",1989,"LIII",28
+"Campeche",1992,"LIV",30
+"Campeche",1994,"LV",31
+"Campeche",1997,"LVI",35
+"Campeche",2000,"LVII",35
+"Campeche",2003,"LVIII",35
+"Campeche",2006,"LIX",35
+"Campeche",2009,"LX",35
+"Campeche",2012,"LXI",35
+"Campeche",2015,"LXII",35
+"Campeche",2018,"LXIII",35
+"Chiapas",1973,"LII",11
+"Chiapas",1976,"LIII",11
+"Chiapas",1979,"LIV",14
+"Chiapas",1982,"LV",20
+"Chiapas",1985,"LVI",20
+"Chiapas",1988,"LVII",24
+"Chiapas",1991,"LVIII",21
+"Chiapas",1995,"LIX",40
+"Chiapas",1998,"LX",40
+"Chiapas",2001,"LXI",40
+"Chiapas",2004,"LXII",40
+"Chiapas",2007,"LXIII",40
+"Chiapas",2010,"LXIV",40
+"Chiapas",2012,"LXV",41
+"Chiapas",2015,"LXVI",40
+"Chiapas",2018,"LXVII",40
+"Chihuahua",1974,"LI",14
+"Chihuahua",1977,"LII",14
+"Chihuahua",1980,"LIII",16
+"Chihuahua",1983,"LIV",13
+"Chihuahua",1986,"LV",16
+"Chihuahua",1989,"LVI",28
+"Chihuahua",1992,"LVII",28
+"Chihuahua",1995,"LVIII",24
+"Chihuahua",1998,"LIX",33
+"Chihuahua",2001,"LX",33
+"Chihuahua",2004,"LXI",33
+"Chihuahua",2007,"LXII",33
+"Chihuahua",2010,"LXIII",33
+"Chihuahua",2013,"LXIV",33
+"Chihuahua",2016,"LXV",33
+"Chihuahua",2018,"LXVI",33
+"Coahuila",1973,"XLVI",11
+"Coahuila",1976,"XLVII",11
+"Coahuila",1979,"XLVIII",16
+"Coahuila",1982,"XLIX",16
+"Coahuila",1985,"L",15
+"Coahuila",1988,"LI",15
+"Coahuila",1991,"LII",21
+"Coahuila",1994,"LIII",32
+"Coahuila",1997,"LIV",32
+"Coahuila",2000,"LV",32
+"Coahuila",2003,"LVI",35
+"Coahuila",2006,"LVII",35
+"Coahuila",2009,"LVIII",31
+"Coahuila",2012,"LIX",25
+"Coahuila",2015,"LX",25
+"Coahuila",2018,"LXI",25
+"Colima",1973,"XLIV",7
+"Colima",1976,"XLV",7
+"Colima",1979,"XLVI",9
+"Colima",1982,"XLVII",9
+"Colima",1985,"XLVIII",13
+"Colima",1988,"XLIX",17
+"Colima",1991,"L",20
+"Colima",1994,"LI",20
+"Colima",1997,"LII",20
+"Colima",2000,"LIII",25
+"Colima",2003,"LIV",25
+"Colima",2006,"LV",25
+"Colima",2009,"LVI",25
+"Colima",2012,"LVII",25
+"Colima",2015,"LVIII",25
+"Colima",2018,"LIX",25
+"DF",1988,"I",66
+"DF",1991,"II",66
+"DF",1994,"III",66
+"DF",1997,"I",66
+"DF",2000,"II",64
+"DF",2003,"III",66
+"DF",2006,"IV",66
+"DF",2009,"V",66
+"DF",2012,"VI",66
+"DF",2015,"VII",66
+"DF",2018,"VIII",66
+"Durango",1974,"LIII",11
+"Durango",1977,"LIV",11
+"Durango",1980,"LV",16
+"Durango",1983,"LVI",15
+"Durango",1986,"LVII",15
+"Durango",1989,"LVIII",25
+"Durango",1992,"LIX",25
+"Durango",1995,"LX",25
+"Durango",1998,"LXI",25
+"Durango",2001,"LXII",24
+"Durango",2004,"LXIII",25
+"Durango",2007,"LXIV",30
+"Durango",2010,"LXV",30
+"Durango",2013,"LXVI",30
+"Durango",2016,"LXVII",25
+"Durango",2018,"LXVIII",25
+"Estado de México",1972,"XLV",15
+"Estado de México",1975,"XLVI",24
+"Estado de México",1978,"XLVII",34
+"Estado de México",1981,"XLVIII",37
+"Estado de México",1984,"XLIX",45
+"Estado de México",1987,"L",45
+"Estado de México",1990,"LI",57
+"Estado de México",1993,"LII",66
+"Estado de México",1996,"LIII",75
+"Estado de México",1999,"LIV",75
+"Estado de México",2003,"LV",75
+"Estado de México",2006,"LVI",75
+"Estado de México",2009,"LVII",75
+"Estado de México",2012,"LVIII",75
+"Estado de México",2015,"LIX",75
+"Estado de México",2018,"LX",75
+"Guanajuato",1973,"XLIX",13
+"Guanajuato",1976,"L",16
+"Guanajuato",1979,"LI",24
+"Guanajuato",1982,"LII",24
+"Guanajuato",1985,"LIII",24
+"Guanajuato",1988,"LIV",31
+"Guanajuato",1991,"LV",30
+"Guanajuato",1994,"LVI",28
+"Guanajuato",1997,"LVII",36
+"Guanajuato",2000,"LVIII",36
+"Guanajuato",2003,"LIX",36
+"Guanajuato",2006,"LX",36
+"Guanajuato",2009,"LXI",36
+"Guanajuato",2012,"LXII",36
+"Guanajuato",2015,"LXIII",36
+"Guanajuato",2018,"LXIV",36
+"Guerrero",1972,"XLVII",11
+"Guerrero",1975,"XLVIII",11
+"Guerrero",1978,"XLIX",12
+"Guerrero",1981,"L",11
+"Guerrero",1984,"LI",16
+"Guerrero",1987,"LII",26
+"Guerrero",1990,"LIII",32
+"Guerrero",1993,"LIV",46
+"Guerrero",1996,"LV",46
+"Guerrero",1999,"LVI",46
+"Guerrero",2002,"LVII",46
+"Guerrero",2005,"LVIII",43
+"Guerrero",2008,"LIX",46
+"Guerrero",2012,"LX",46
+"Guerrero",2015,"LXI",46
+"Guerrero",2018,"LXII",46
+"Hidalgo",1972,"XLVII",15
+"Hidalgo",1975,"XLIX",15
+"Hidalgo",1975,"XLVIII",15
+"Hidalgo",1978,"L",15
+"Hidalgo",1981,"LI",19
+"Hidalgo",1984,"LII",20
+"Hidalgo",1987,"LIII",20
+"Hidalgo",1990,"LIV",20
+"Hidalgo",1993,"LV",24
+"Hidalgo",1996,"LVI",27
+"Hidalgo",1999,"LVII",29
+"Hidalgo",2002,"LVIII",29
+"Hidalgo",2005,"LIX",29
+"Hidalgo",2008,"LX",30
+"Hidalgo",2011,"LXI",30
+"Hidalgo",2013,"LXII",33
+"Hidalgo",2016,"LXIII",30
+"Hidalgo",2018,"LXIV",30
+"Jalisco",1974,"XLVII",17
+"Jalisco",1977,"XLVIII",18
+"Jalisco",1980,"XLIX",26
+"Jalisco",1983,"L",26
+"Jalisco",1986,"LI",26
+"Jalisco",1989,"LII",34
+"Jalisco",1992,"LIII",34
+"Jalisco",1995,"LIV",37
+"Jalisco",1998,"LV",40
+"Jalisco",2001,"LVI",40
+"Jalisco",2004,"LVII",40
+"Jalisco",2007,"LVIII",40
+"Jalisco",2010,"LIX",39
+"Jalisco",2013,"LX",39
+"Jalisco",2016,"LXI",39
+"Jalisco",2018,"LXII",38
+"Michoacán",1974,"LX",16
+"Michoacán",1977,"LXI",17
+"Michoacán",1980,"LXII",18
+"Michoacán",1983,"LXIII",24
+"Michoacán",1986,"LXIV",24
+"Michoacán",1989,"LXV",24
+"Michoacán",1992,"LXVI",30
+"Michoacán",1995,"LXVII",30
+"Michoacán",1998,"LXVIII",30
+"Michoacán",2001,"LXIX",40
+"Michoacán",2005,"LXX",40
+"Michoacán",2008,"LXXI",40
+"Michoacán",2012,"LXXII",40
+"Michoacán",2015,"LXXIII",40
+"Michoacán",2018,"LXXIV",40
+"Morelos",1973,"XXXIX",7
+"Morelos",1976,"XL",9
+"Morelos",1979,"XLI",15
+"Morelos",1982,"XLII",15
+"Morelos",1985,"XLIII",15
+"Morelos",1988,"XLIV",15
+"Morelos",1991,"XLV",18
+"Morelos",1994,"XLVI",20
+"Morelos",1997,"XLVII",30
+"Morelos",2000,"XLVIII",30
+"Morelos",2003,"XLIX",30
+"Morelos",2006,"L",28
+"Morelos",2009,"LI",30
+"Morelos",2012,"LII",30
+"Morelos",2015,"LIII",30
+"Morelos",2018,"LIV",20
+"Nayarit",1972,"XVII",9
+"Nayarit",1975,"XVIIII",10
+"Nayarit",1978,"XIX",20
+"Nayarit",1981,"XX",20
+"Nayarit",1984,"XXI",22
+"Nayarit",1987,"XXII",30
+"Nayarit",1990,"XXIII",30
+"Nayarit",1993,"XXIV",30
+"Nayarit",1996,"XXV",30
+"Nayarit",1999,"XXVI",30
+"Nayarit",2002,"XXVII",30
+"Nayarit",2005,"XXVIII",29
+"Nayarit",2008,"XXIX",30
+"Nayarit",2011,"XXX",30
+"Nayarit",2014,"XXXI",30
+"Nayarit",2017,"XXXII",30
+"Nuevo León",1973,"LX",15
+"Nuevo León",1976,"LXI",15
+"Nuevo León",1979,"LXII",20
+"Nuevo León",1982,"LXIII",27
+"Nuevo León",1985,"LXIV",34
+"Nuevo León",1988,"LXV",40
+"Nuevo León",1991,"LXVI",40
+"Nuevo León",1994,"LXVII",42
+"Nuevo León",1997,"LXVIII",42
+"Nuevo León",2000,"LXIX",41
+"Nuevo León",2003,"LXX",42
+"Nuevo León",2006,"LXXI",42
+"Nuevo León",2009,"LXXII",42
+"Nuevo León",2012,"LXXIII",42
+"Nuevo León",2015,"LXXIV",42
+"Nuevo León",2018,"LXXV",42
+"Oaxaca",1974,"XLIX",15
+"Oaxaca",1977,"L",15
+"Oaxaca",1980,"LI",24
+"Oaxaca",1983,"LII",24
+"Oaxaca",1986,"LIII",24
+"Oaxaca",1989,"LIV",24
+"Oaxaca",1992,"LV",31
+"Oaxaca",1995,"LVI",42
+"Oaxaca",1998,"LVII",42
+"Oaxaca",2001,"LVIII",42
+"Oaxaca",2004,"LIX",42
+"Oaxaca",2007,"LX",42
+"Oaxaca",2010,"LXI",42
+"Oaxaca",2013,"LXII",42
+"Oaxaca",2016,"LXIII",42
+"Oaxaca",2019,"LXIV",42
+"Puebla",1972,"XLV",16
+"Puebla",1975,"XLVI",18
+"Puebla",1978,"XLVII",25
+"Puebla",1981,"XLVIII",26
+"Puebla",1984,"XLIX",28
+"Puebla",1987,"L",29
+"Puebla",1990,"LI",29
+"Puebla",1993,"LII",29
+"Puebla",1996,"LIII",39
+"Puebla",1999,"LIV",39
+"Puebla",2002,"LV",41
+"Puebla",2005,"LVI",41
+"Puebla",2008,"LVII",41
+"Puebla",2011,"LVIII",41
+"Puebla",2014,"LIX",41
+"Puebla",2018,"LX",41
+"Querétaro",1973,"XLIV",9
+"Querétaro",1976,"XLV",9
+"Querétaro",1979,"XLVI",12
+"Querétaro",1982,"XLVII",15
+"Querétaro",1985,"XLVIII",15
+"Querétaro",1988,"XLIX",19
+"Querétaro",1991,"L",21
+"Querétaro",1994,"LI",25
+"Querétaro",1997,"LII",25
+"Quintana Roo",1974,"CONSTITUYENTE",7
+"Quintana Roo",1975,"I",7
+"Quintana Roo",1978,"II",10
+"Quintana Roo",1981,"III",12
+"Quintana Roo",1984,"IV",15
+"Quintana Roo",1987,"V",15
+"Quintana Roo",1990,"VI",18
+"Quintana Roo",1993,"VII",18
+"Quintana Roo",1996,"VIII",25
+"Quintana Roo",1999,"IX",25
+"Quintana Roo",2002,"X",25
+"Quintana Roo",2005,"XI",25
+"Quintana Roo",2008,"XII",25
+"Quintana Roo",2011,"XIII",25
+"Quintana Roo",2013,"XIV",25
+"Quintana Roo",2016,"XV",24
+"Quintana Roo",2019,"XVI",25
+"Quintana Roo",NA,"",1
+"San Luis Potosí",1972,"XLVII",11
+"San Luis Potosí",1975,"XLVIII",11
+"San Luis Potosí",1978,"XLIX",11
+"San Luis Potosí",1981,"L",20
+"San Luis Potosí",1984,"LI",20
+"San Luis Potosí",1987,"LII",20
+"San Luis Potosí",1990,"LIII",20
+"San Luis Potosí",1993,"LIV",24
+"San Luis Potosí",1997,"LV",27
+"San Luis Potosí",2000,"LVI",27
+"San Luis Potosí",2003,"LVII",27
+"San Luis Potosí",2006,"LVIII",27
+"San Luis Potosí",2009,"LIX",27
+"San Luis Potosí",2012,"LX",27
+"San Luis Potosí",2015,"LXI",27
+"San Luis Potosí",2018,"LXII",25
+"Sinaloa",1974,"XLVIII",19
+"Sinaloa",1977,"XLIX",19
+"Sinaloa",1980,"L",29
+"Sinaloa",1983,"LI",29
+"Sinaloa",1986,"LII",29
+"Sinaloa",1989,"LIII",29
+"Sinaloa",1992,"LIV",39
+"Sinaloa",1995,"LV",40
+"Sinaloa",1998,"LVI",40
+"Sinaloa",2001,"LVII",40
+"Sinaloa",2004,"LVIII",40
+"Sinaloa",2007,"LIX",40
+"Sinaloa",2010,"LX",40
+"Sinaloa",2013,"LXI",40
+"Sinaloa",2016,"LXII",40
+"Sinaloa",2018,"LXIII",40
+"Sonora",1973,"XLVII",11
+"Sonora",1976,"XLVIII",11
+"Sonora",1979,"XLIX",20
+"Sonora",1982,"L",24
+"Sonora",1985,"LI",24
+"Sonora",1988,"LII",27
+"Sonora",1991,"LIII",27
+"Sonora",1994,"LIV",33
+"Sonora",1997,"LV",33
+"Sonora",2000,"LVI",33
+"Sonora",2003,"LVII",31
+"Sonora",2006,"LVIII",33
+"Sonora",2009,"LIX",33
+"Sonora",2012,"LX",33
+"Sonora",2015,"LXI",33
+"Sonora",2018,"LXII",33
+"Tabasco",1974,"XLVIII",14
+"Tabasco",1977,"XLIX",17
+"Tabasco",1980,"L",19
+"Tabasco",1983,"LI",19
+"Tabasco",1986,"LII",19
+"Tabasco",1989,"LIII",23
+"Tabasco",1992,"LIV",29
+"Tabasco",1995,"LV",29
+"Tabasco",1998,"LVI",31
+"Tabasco",2001,"LVII",31
+"Tabasco",2004,"LVIII",35
+"Tabasco",2007,"LIX",35
+"Tabasco",2010,"LX",35
+"Tabasco",2013,"LXI",35
+"Tabasco",2016,"LXII",35
+"Tabasco",2019,"LXIII",35
+"Tamaulipas",1972,"XLVIII",11
+"Tamaulipas",1975,"XLIX",11
+"Tamaulipas",1978,"L",14
+"Tamaulipas",1981,"LI",18
+"Tamaulipas",1984,"LII",20
+"Tamaulipas",1987,"LIII",20
+"Tamaulipas",1990,"LIV",26
+"Tamaulipas",1993,"LV",26
+"Tamaulipas",1996,"LVI",32
+"Tamaulipas",1999,"LVII",32
+"Tamaulipas",2001,"LVIII",32
+"Tamaulipas",2005,"LIX",32
+"Tamaulipas",2008,"LX",32
+"Tamaulipas",2010,"LXI",36
+"Tamaulipas",2013,"LXII",36
+"Tamaulipas",2016,"LXIII",36
+"Tamaulipas",2019,"LXIV",36
+"Tlaxcala",1971,"XLVII",7
+"Tlaxcala",1974,"XLVIII",11
+"Tlaxcala",1977,"XLIX",10
+"Tlaxcala",1980,"L",15
+"Tlaxcala",1983,"LI",15
+"Tlaxcala",1986,"LII",15
+"Tlaxcala",1989,"LIII",15
+"Tlaxcala",1992,"LIV",15
+"Tlaxcala",1995,"LV",32
+"Tlaxcala",1998,"LVI",32
+"Tlaxcala",2002,"LVII",32
+"Tlaxcala",2005,"LVIII",32
+"Tlaxcala",2008,"LIX",32
+"Tlaxcala",2011,"LX",32
+"Tlaxcala",2013,"LXI",32
+"Tlaxcala",2016,"LXII",25
+"Tlaxcala",2019,"LXIII",24
+"Veracruz",1972,"XLIX",16
+"Veracruz",1975,"L",16
+"Veracruz",1977,"LI",19
+"Veracruz",1980,"LII",31
+"Veracruz",1983,"LIII",31
+"Veracruz",1986,"LIV",31
+"Veracruz",1989,"LV",40
+"Veracruz",1992,"LVI",40
+"Veracruz",1995,"LVII",40
+"Veracruz",1998,"LVIII",45
+"Veracruz",2000,"LIX",45
+"Veracruz",2004,"LX",50
+"Veracruz",2007,"LXI",50
+"Veracruz",2010,"LXII",50
+"Veracruz",2013,"LXIII",50
+"Veracruz",2016,"LXIV",50
+"Veracruz",2018,"LXV",50
+"Yucatán",1974,"XLVI",13
+"Yucatán",1976,"XLVII",14
+"Yucatán",1979,"XLVIII",16
+"Yucatán",1982,"XLIX",15
+"Yucatán",1985,"L",19
+"Yucatán",1988,"LI",20
+"Yucatán",1991,"LII",25
+"Yucatán",1994,"LIII",25
+"Yucatán",1995,"LIV",25
+"Yucatán",1998,"LV",25
+"Yucatán",2001,"LVI",25
+"Yucatán",2004,"LVII",25
+"Yucatán",2007,"LVIII",25
+"Yucatán",2010,"LIX",25
+"Yucatán",2012,"LX",25
+"Yucatán",2015,"LXI",25
+"Yucatán",2018,"LXII",25
+"Zacatecas",1974,"XLVIII",13
+"Zacatecas",1977,"XLIX",13
+"Zacatecas",1980,"L",17
+"Zacatecas",1983,"LI",17
+"Zacatecas",1986,"LII",17
+"Zacatecas",1989,"LIII",21
+"Zacatecas",1992,"LIV",21
+"Zacatecas",1995,"LV",30
+"Zacatecas",1998,"LVI",30
+"Zacatecas",2001,"LVII",30
+"Zacatecas",2004,"LVIII",30
+"Zacatecas",2007,"LIX",30
+"Zacatecas",2010,"LX",30
+"Zacatecas",2013,"LXI",30
+"Zacatecas",2016,"LXII",30
+"Zacatecas",2018,"LXIII",30

@@ -45,7 +45,7 @@ try <- data %>%
   group_by(Anio, first2, tot) %>% 
   summarise(prop = sum(cont, na.rm = T)) %>% 
   ungroup() %>% 
-  mutate(porc = prop/tot)
+  mutate(porc = round(prop/tot, 2))
 
 # try <- try %>% 
 #   filter(!is.na(first2))

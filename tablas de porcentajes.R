@@ -7,7 +7,7 @@ library(stringr)
 library(ggplot2)
 library(openxlsx)
 
-out <- "/home/dhjs/Documentos/R_projects/mapas_poder_compartido"
+out <- "/Users/dhjs/Documents/projects/mapas_poder_compartido"
 
 # Municipios --------------------------------------------------------------
 
@@ -34,7 +34,8 @@ try.mun <- mun %>%
   group_by(Anio, first, tot) %>% 
   summarise(prop = sum(cont, na.rm = T)) %>% 
   ungroup() %>% 
-  mutate(porc = prop * 100 /tot) %>% 
+  mutate(porc = prop * 100 /tot,
+         porc =round(porc, 2)) %>% 
   select(-c(prop, tot))
 
 mun2 <- try.mun %>% 
@@ -52,7 +53,8 @@ mun <- mun %>%
   group_by(Anio, Ganador, tot) %>% 
   summarise(prop = sum(cont, na.rm = T)) %>% 
   ungroup() %>% 
-  mutate(porc = prop * 100 /tot) %>% 
+  mutate(porc = prop * 100 /tot,
+         porc = round(porc, 2)) %>% 
   select(-c(prop, tot)) %>% 
   pivot_wider(names_from = Anio, 
               values_from = porc)
@@ -66,7 +68,8 @@ dip <- dip %>%
   group_by(year) %>% 
   mutate(num = sum(Total)) %>% 
   ungroup() %>% 
-  mutate(prop = Total * 100/num) %>% 
+  mutate(prop = Total * 100/num,
+         prop = round(prop, 2)) %>% 
   select(Legislatura, year, GP, prop)
 
 dip2 <- dip %>% 
@@ -83,7 +86,8 @@ sen <- sen %>%
   group_by(year) %>% 
   mutate(num = sum(Total)) %>% 
   ungroup() %>% 
-  mutate(prop = Total * 100 /num) %>% 
+  mutate(prop = Total * 100 /num,
+         prop = round(prop, 2)) %>% 
   select(Legislatura, year, GP, prop)
 
 sen2 <- sen %>% 

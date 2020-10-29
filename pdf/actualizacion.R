@@ -383,7 +383,6 @@ yuc <- read_excel(paste(inp, "YUCATAN.xlsx", sep = "/")) %>%
   arrange(year) %>% 
   write.csv(paste(inp, "yucatan_final.csv", sep = "/"), row.names = F)
 
-
 zac <- read_excel(paste(inp, "ZACATECAS.xlsx", sep = "/")) %>% 
   mutate(
     prin = ifelse(is.na(distrito), "PR", "MR")
@@ -397,3 +396,31 @@ zac <- read_excel(paste(inp, "ZACATECAS.xlsx", sep = "/")) %>%
   select(partido, MR, PR, legis, year) %>% 
   arrange(year) %>% 
   write.csv(paste(inp, "zacatecas_final.csv", sep = "/"), row.names = F)
+
+sin <- read_excel(paste(inp, "SINALOA.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "sinaloa_final.csv", sep = "/"), row.names = F)
+
+CHIS <- read_excel(paste(inp, "CHIS.xlsx", sep = "/")) %>% 
+  mutate(
+    prin = ifelse(is.na(distrito), "PR", "MR")
+  ) %>% 
+  group_by(partido, prin, legis, year) %>% 
+  count() %>% 
+  pivot_wider(
+    names_from = prin,
+    values_from = n
+  ) %>% 
+  select(partido, MR, PR, legis, year) %>% 
+  arrange(year) %>% 
+  write.csv(paste(inp, "chis_lxii_final.csv", sep = "/"), row.names = F)
